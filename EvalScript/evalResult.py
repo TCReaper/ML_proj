@@ -15,7 +15,10 @@ def get_predicted(predicted, answers=defaultdict(lambda: defaultdict(defaultdict
     last_entity = []
 
     answers[example] = []
+
+    
     for line in predicted:
+        print(line)
         line = line.strip()
         if line.startswith("##"):
             continue
@@ -30,8 +33,9 @@ def get_predicted(predicted, answers=defaultdict(lambda: defaultdict(defaultdict
             last_ne = "O"
             continue
         else:
+       
+            print(line)
             split_line = line.split(separator)
-            #word = split_line[0]
             value = split_line[outputColumnIndex]
             ne = value[0]
             sent = value[2:]
@@ -89,6 +93,8 @@ def get_observed(observed):
 
     for line in observed:
         line = line.strip()
+
+
         if line.startswith("##"):
             continue
         elif len(line) == 0:
