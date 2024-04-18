@@ -43,6 +43,7 @@ Calif. B-NP
 research I-NP
 firm I-NP
 . O
+
 WASHINGTON None
 LIES None
 LOW None
@@ -54,6 +55,7 @@ market I-NP
 roller-coaster I-NP
 ride I-VP
 . O
+
 This B-NP
 may B-VP
 seem B-VP
@@ -68,6 +70,7 @@ effort I-NP
 in B-PP
 Africa I-NP
 . O
+
 American B-NP
 Express I-NP
 Bank I-NP
@@ -90,6 +93,7 @@ a B-LST
 revenue I-NP
 gain I-NP
 . O
+
 Californians B-NP
 , O
 meanwhile B-ADVP
@@ -119,6 +123,7 @@ dead B-ADJP
 and I-UCP
 injured I-VP
 . O
+
 This B-NP
 year I-NP
 , O
@@ -150,11 +155,13 @@ have I-VP
 delivery I-NP
 problems I-NP
 . O
+
 Mr. B-NP
 Juliano I-NP
 thinks B-VP
 so B-ADJP
 . O
+
 Assistant O
 U.S. I-NP
 Attorney I-NP
@@ -183,6 +190,7 @@ delay I-VP
 a B-LST
 retrial B-NP
 . O
+
 Galveston-Houston None
 Co. I-NP
 said B-VP
@@ -206,6 +214,7 @@ stock I-NP
 Nov. B-NP
 8 B-NP
 . O
+
 On B-PP
 a B-LST
 $ B-NP
@@ -223,6 +232,7 @@ $ B-NP
 a B-LST
 year I-NP
 . O
+
 Neither B-NP
 the B-NP
 Amoco B-NP
@@ -236,6 +246,7 @@ the B-NP
 suit I-NP
 alleged B-VP
 . O
+
 But O
 for B-PP
 individuals B-NP
@@ -262,6 +273,7 @@ margin I-NP
 is I-INTJ
 meaningless None
 . O
+
 The B-NP
 authorities I-NP
 have I-VP
@@ -284,6 +296,7 @@ of I-PP
 thinking I-VP
 . O
 '' O
+
 That B-NP
 's B-NP
 because B-SBAR
@@ -305,6 +318,7 @@ on B-PRT
 commission I-NP
 costs I-NP
 . O
+
 Mr. B-NP
 Pinola I-NP
 is I-INTJ
@@ -320,6 +334,7 @@ Life I-NP
 Insurance I-NP
 Co I-NP
 . O
+
 John B-NP
 Uphoff None
 , O
@@ -359,6 +374,7 @@ flow I-NP
 in B-PP
 1990 B-NP
 . O
+
 Raymond B-NP
 James B-NP
 & I-NP
@@ -386,6 +402,7 @@ Professional I-NP
 Investor I-NP
 Report I-NP
 . O
+
 Osborn None
 also I-CONJP
 operates B-VP
@@ -399,6 +416,7 @@ small I-ADJP
 cable-television None
 systems I-NP
 . O
+
 Digital B-NP
 , O
 based B-VP
@@ -429,6 +447,7 @@ the B-NP
 new I-NP
 technology I-NP
 . O
+
 He B-NP
 also I-CONJP
 says B-VP
@@ -459,6 +478,7 @@ Sears B-NP
 and I-UCP
 IBM B-NP
 . O
+
 The B-NP
 Treasury I-NP
 plans B-VP
@@ -491,6 +511,7 @@ in B-PP
 maturing None
 bills I-NP
 . O
+
 Stocks B-NP
 retreated B-VP
 to B-PP
@@ -525,6 +546,7 @@ futures-related B-NP
 program I-NP
 buying I-VP
 . O
+
 There B-NP
 is I-INTJ
 no I-INTJ
@@ -549,6 +571,7 @@ it B-NP
 -- O
 outsiders B-NP
 . O
+
 The B-NP
 Federal I-NP
 Election None
@@ -578,6 +601,7 @@ political I-NP
 action I-NP
 committee I-NP
 . O
+
 The B-NP
 method I-NP
 of I-PP
@@ -612,6 +636,7 @@ to B-PP
 tax I-NP
 act I-VP
 . O
+
 I B-NP
 expected I-VP
 him B-NP
@@ -631,6 +656,7 @@ already B-ADVP
 was B-VP
 snoring None
 . O
+
 Although B-SBAR
 the B-NP
 East B-NP
@@ -675,6 +701,7 @@ meeting I-NP
 late I-ADVP
 Tuesday B-NP
 . O
+
 During B-PP
 the B-NP
 quarter I-NP
@@ -709,6 +736,7 @@ obstructed I-VP
 coronary None
 arteries I-NP
 . O
+
 We B-NP
 do B-VP
 n't I-VP
@@ -739,6 +767,7 @@ take I-VP
 several B-NP
 weeks I-NP
 . O
+
 Law-enforcement None
 authorities I-NP
 say B-INTJ
@@ -762,6 +791,7 @@ legitimate B-NP
 businesses I-NP
 here B-ADVP
 . O
+
 The B-NP
 percentage I-ADVP
 rates I-NP
@@ -783,6 +813,7 @@ a B-LST
 365-day None
 year I-NP
 . O
+
 Neither B-NP
 was B-VP
 among I-PP
@@ -809,6 +840,7 @@ Board I-NP
 of I-PP
 Trade B-NP
 . O
+
 A B-NP
 spokesman I-NP
 for B-PP
@@ -828,6 +860,7 @@ declined B-VP
 to B-PP
 comment I-VP
 . O
+
 `` O
 By B-PP
 populating None
@@ -851,6 +884,7 @@ into B-PP
 account B-VP
 . O
 '' O
+
 Also B-ADVP
 , O
 profit I-NP
@@ -862,6 +896,7 @@ the B-NP
 third I-NP
 quarter I-NP
 . O
+
 Two B-NP
 election I-NP
 commission I-NP
@@ -871,6 +906,7 @@ the B-NP
 matching B-VP
 plans B-VP
 . O
+
 An B-NP
 accelerating None
 move I-VP
@@ -897,6 +933,7 @@ Digital B-NP
 's B-NP
 equipment I-NP
 . O
+
 When B-ADVP
 the B-NP
 IAFP I-NP
@@ -923,6 +960,7 @@ group I-NP
 was B-VP
 excluded I-VP
 . O
+
 Mr. B-NP
 Peake None
 is I-INTJ
@@ -937,6 +975,7 @@ Englewood B-NP
 , O
 N.J B-NP
 . O
+
 CALL B-NP
 MONEY I-NP
 : O
@@ -947,6 +986,7 @@ to B-PP
 10 I-ADVP
 % I-ADJP
 . O
+
 The B-NP
 forces I-NP
 at B-PP
@@ -976,6 +1016,7 @@ the B-NP
 recent I-ADJP
 correction I-NP
 . O
+
 `` O
 The B-NP
 thing I-NP
@@ -1013,6 +1054,7 @@ in B-PP
 the B-NP
 case I-NP
 . O
+
 That B-NP
 rose B-VP
 to B-PP
@@ -1030,6 +1072,7 @@ changed I-ADJP
 much I-ADVP
 since B-SBAR
 . O
+
 Mr. B-NP
 Maynard I-NP
 initially B-ADVP
@@ -1054,12 +1097,14 @@ Safety None
 Inspection None
 Service I-NP
 . O
+
 Fanuc None
 gained B-VP
 100 I-NP
 to B-PP
 7,580 None
 . O
+
 Forecasts None
 for B-PP
 the B-NP
@@ -1099,6 +1144,7 @@ reported B-VP
 for B-PP
 August B-NP
 . O
+
 Fox B-NP
 said B-VP
 it B-NP
@@ -1122,6 +1168,7 @@ sometime B-NP
 next B-ADVP
 year I-NP
 . O
+
 The B-NP
 most-strident None
 anti-outsider None
@@ -1160,6 +1207,7 @@ Texas B-ADJP
 TV I-NP
 campaign I-NP
 . O
+
 So-called B-NP
 living-benefits None
 provisions I-NP
@@ -1169,6 +1217,7 @@ a B-LST
 close B-ADJP
 inspection I-NP
 . O
+
 It B-NP
 would B-VP
 go I-VP
@@ -1205,6 +1254,7 @@ before I-SBAR
 quieting None
 down B-PRT
 . O
+
 These B-NP
 and I-UCP
 other B-NP
@@ -1234,6 +1284,7 @@ Burnham I-NP
 Lambert I-NP
 Inc I-NP
 . O
+
 Executives B-NP
 at B-PP
 Olivetti B-NP
@@ -1267,6 +1318,7 @@ technology I-NP
 to B-PP
 market I-NP
 . O
+
 Tom B-NP
 Schumacher I-NP
 , O
@@ -1305,6 +1357,7 @@ for B-PP
 emergency-medical None
 supplies B-VP
 . O
+
 Real-estate B-NP
 interests I-NP
 , O
@@ -1329,6 +1382,7 @@ include I-VP
 real-estate I-NP
 gains I-NP
 . O
+
 We B-NP
 expect B-VP
 a B-LST
@@ -1351,6 +1405,7 @@ will B-VP
 be I-VP
 ugly None
 . O
+
 Sheldon I-NP
 B. I-NP
 Lubar None
@@ -1382,8 +1437,10 @@ this B-NP
 engine I-NP
 maker I-NP
 . O
+
 HLR None
 : O
+
 And O
 the B-NP
 respondents I-NP
@@ -1399,6 +1456,7 @@ lighter None
 than I-CONJP
 usual B-ADJP
 . O
+
 Now B-INTJ
 a B-LST
 startling None
@@ -1427,6 +1485,7 @@ style I-NP
 one B-NP
 bit I-ADJP
 ! O
+
 `` O
 Losses B-NP
 from B-PP
@@ -1451,6 +1510,7 @@ to B-PP
 Moody B-NP
 's B-NP
 . O
+
 Frank B-NP
 Carlucci I-NP
 III I-NP
@@ -1476,6 +1536,7 @@ Sobey None
 last I-ADVP
 May B-NP
 . O
+
 Most B-NP
 banking I-NP
 issues I-NP
@@ -1504,6 +1565,7 @@ its B-NP
 long-term I-ADJP
 prospects I-NP
 . O
+
 Latest None
 approvals I-NP
 : O
@@ -1517,6 +1579,7 @@ and I-UCP
 General B-NP
 Dynamics I-NP
 . O
+
 How B-ADVP
 should B-VP
 a B-LST
@@ -1539,6 +1602,7 @@ on B-PRT
 the B-NP
 board I-NP
 ? O
+
 Assistant O
 U.S. I-NP
 Attorney I-NP
@@ -1572,6 +1636,7 @@ New B-NP
 York I-NP
 office I-NP
 . O
+
 `` O
 Sell B-NP
 stocks I-NP
@@ -1606,6 +1671,7 @@ Edwards I-NP
 & I-NP
 Sons O
 . O
+
 Leonard None
 Bickwit None
 , O
@@ -1648,6 +1714,7 @@ appropriate B-NP
 time I-NP
 . O
 '' O
+
 The B-NP
 directors I-NP
 ' B-NP
@@ -1681,6 +1748,7 @@ light B-ADJP
 over-the-counter I-NP
 trading I-NP
 . O
+
 Few B-NP
 specialists B-NP
 said B-VP
@@ -1700,6 +1768,7 @@ California B-NP
 property I-NP
 values I-NP
 . O
+
 Food I-NP
 prices I-NP
 rose B-VP
@@ -1724,6 +1793,7 @@ in B-PP
 the B-NP
 year I-NP
 . O
+
 There B-NP
 was B-VP
 no I-INTJ
@@ -1734,12 +1804,14 @@ the B-NP
 second I-NP
 phase I-VP
 . O
+
 Some B-NP
 couples I-NP
 continue I-VP
 to B-PP
 try I-VP
 . O
+
 Stocks B-NP
 of I-PP
 major I-NP
@@ -1755,6 +1827,7 @@ third-quarter B-NP
 earnings I-NP
 reports I-NP
 . O
+
 Bay I-NP
 Financial I-NP
 , O
@@ -1792,6 +1865,7 @@ to B-PP
 2 B-LST
 1\/8 I-NP
 . O
+
 His B-NP
 recommendation None
 was B-VP
@@ -1800,6 +1874,7 @@ by B-PP
 the B-NP
 government I-NP
 . O
+
 `` O
 The B-NP
 programs I-NP
@@ -1818,6 +1893,7 @@ Republican I-NP
 from B-PP
 Illinois I-NP
 . O
+
 You B-NP
 'll B-VP
 see I-VP
@@ -1835,6 +1911,7 @@ occurred B-VP
 previously B-ADVP
 . O
 '' O
+
 And O
 they B-NP
 have I-VP
@@ -1855,6 +1932,7 @@ Florida B-NP
 and I-UCP
 Wyoming B-NP
 . O
+
 Meanwhile B-ADVP
 , O
 Eurocom B-NP
@@ -1888,6 +1966,7 @@ to B-PP
 60 B-NP
 % I-ADJP
 . O
+
 The B-NP
 Treasury I-NP
 's B-NP
@@ -1925,6 +2004,7 @@ time I-NP
 since B-SBAR
 Thursday B-NP
 . O
+
 Yet B-ADVP
 her B-NP
 intensity I-NP
@@ -1935,6 +2015,7 @@ with B-PP
 the B-NP
 music I-NP
 . O
+
 The B-NP
 results I-NP
 compare I-VP
@@ -1964,6 +2045,7 @@ dilutive I-NP
 equivalents I-NP
 outstanding B-ADJP
 . O
+
 Revenue B-NP
 dropped B-VP
 1.6 I-NP
@@ -1977,6 +2059,7 @@ $ B-NP
 1.23 I-NP
 billion I-NP
 . O
+
 Charleston B-NP
 is I-INTJ
 historic I-NP
@@ -1996,6 +2079,7 @@ as B-CONJP
 he B-NP
 suggested B-VP
 . O
+
 This B-NP
 magazine I-NP
 and I-UCP
@@ -2014,6 +2098,7 @@ board I-NP
 to B-PP
 10 I-ADVP
 . O
+
 Among B-PP
 the B-NP
 Guinness I-NP
@@ -2028,6 +2113,7 @@ loudest None
 recorded B-VP
 belch None
 . O
+
 The B-NP
 company I-NP
 , O
@@ -2058,6 +2144,7 @@ plans B-VP
 to B-PP
 sell I-VP
 . O
+
 `` O
 The B-NP
 press I-NP
@@ -2068,6 +2155,7 @@ an B-NP
 excellent None
 job I-NP
 . O
+
 Two B-NP
 rules I-NP
 in B-PP
@@ -2094,6 +2182,7 @@ as B-CONJP
 10 I-ADVP
 % I-ADJP
 . O
+
 `` O
 We B-NP
 hope B-VP
@@ -2117,6 +2206,7 @@ Dr. B-NP
 Warshaw I-NP
 said B-VP
 . O
+
 A B-NP
 year I-NP
 earlier B-ADVP
@@ -2126,6 +2216,7 @@ totaled B-VP
 billion I-NP
 francs I-NP
 . O
+
 `` O
 We B-NP
 're B-VP
@@ -2145,6 +2236,7 @@ organization I-NP
 's B-NP
 president I-NP
 . O
+
 The B-NP
 National I-NP
 Taxpayers I-NP
@@ -2176,6 +2268,7 @@ of I-PP
 1989 I-NP
 . O
 '' O
+
 Digital B-NP
 's B-NP
 failure I-NP
@@ -2208,10 +2301,12 @@ Mr. B-NP
 Willman I-NP
 says B-VP
 . O
+
 It B-NP
 is I-INTJ
 n't I-VP
 . O
+
 Detroit B-NP
 Edison B-NP
 , O
@@ -2235,6 +2330,7 @@ $ B-NP
 in B-PP
 1988 B-NP
 . O
+
 Along B-PP
 with B-PP
 the B-NP
@@ -2252,6 +2348,7 @@ men I-NP
 's B-NP
 underwear I-NP
 . O
+
 A B-NP
 columnist I-NP
 in B-PP
@@ -2271,6 +2368,7 @@ for B-PP
 this B-NP
 report I-VP
 ? O
+
 Computer I-NP
 Sciences None
 Corp. I-NP
@@ -2308,6 +2406,7 @@ Ames B-NP
 Research I-NP
 Center I-NP
 . O
+
 He B-NP
 was B-VP
 a B-LST
@@ -2340,6 +2439,7 @@ of I-PP
 his B-NP
 state I-NP
 . O
+
 The B-NP
 Senate I-NP
 estimates B-VP
@@ -2368,6 +2468,7 @@ over B-PRT
 five B-NP
 years I-NP
 . O
+
 Trinova B-NP
 third-quarter B-NP
 loss I-NP
@@ -2405,6 +2506,7 @@ over B-PRT
 three B-NP
 years I-NP
 . O
+
 Dealers B-NP
 said B-VP
 it B-NP
@@ -2418,6 +2520,7 @@ gains I-NP
 since B-SBAR
 mid-week None
 . O
+
 GM B-NP
 said B-VP
 the B-NP
@@ -2450,6 +2553,7 @@ until B-SBAR
 Oct. B-NP
 30 I-NP
 . O
+
 The B-NP
 lawsuit I-NP
 states I-NP
@@ -2484,6 +2588,7 @@ permanently B-ADJP
 destroyed I-VP
 . O
 '' O
+
 Construction B-NP
 of I-PP
 the B-NP
@@ -2501,6 +2606,7 @@ in B-PP
 April B-NP
 1992 B-NP
 . O
+
 Mr. B-NP
 Batchelder I-NP
 says B-VP
@@ -2533,6 +2639,7 @@ company I-NP
 's B-NP
 assets I-NP
 . O
+
 They B-NP
 point I-ADVP
 at B-PP
@@ -2555,6 +2662,7 @@ successive None
 IMF I-NP
 programs I-NP
 . O
+
 It B-NP
 said B-VP
 the B-NP
@@ -2579,6 +2687,7 @@ Winchester B-NP
 disk I-NP
 drives I-NP
 . O
+
 The B-NP
 company I-NP
 , O
@@ -2606,6 +2715,7 @@ quarter I-NP
 to B-PP
 quarter I-NP
 . O
+
 Last B-NP
 year I-NP
 , O
@@ -2621,6 +2731,7 @@ $ B-NP
 336 None
 million I-NP
 . O
+
 Then B-ADVP
 I B-NP
 remembered I-VP
@@ -2641,6 +2752,7 @@ second-story None
 motel None
 room I-NP
 . O
+
 The B-NP
 best I-ADVP
 course B-NP
@@ -2659,6 +2771,7 @@ two B-NP
 advisers I-NP
 say B-INTJ
 . O
+
 He B-NP
 believes B-VP
 that B-SBAR
@@ -2686,8 +2799,10 @@ buzz None
 saw B-VP
 . O
 '' O
+
 Skoal None
 Daze None
+
 Soviet I-NP
 leader I-NP
 Mikhail B-NP
@@ -2728,6 +2843,7 @@ Johnson I-NP
 & I-NP
 Johnson I-NP
 . O
+
 C.R. None
 Bard I-NP
 Inc. I-NP
@@ -2764,6 +2880,7 @@ a B-LST
 year I-NP
 earlier B-ADVP
 . O
+
 Several B-NP
 factors I-NP
 apparently B-ADVP
@@ -2798,6 +2915,7 @@ hour I-NP
 drive I-VP
 north I-NP
 . O
+
 City I-NP
 dwellers None
 love I-VP
@@ -2827,6 +2945,7 @@ than I-CONJP
 racing I-NP
 bikes I-NP
 . O
+
 It B-NP
 arrived I-VP
 just I-CONJP
@@ -2839,6 +2958,7 @@ operations I-NP
 was B-VP
 retiring I-VP
 . O
+
 And O
 Resolution B-NP
 Funding I-NP
@@ -2858,6 +2978,7 @@ of I-PP
 bonds I-NP
 Wednesday B-NP
 . O
+
 Robert B-NP
 H. I-NP
 Carlson None
@@ -2884,6 +3005,7 @@ a B-LST
 vitreous-china None
 maker I-NP
 . O
+
 An B-NP
 additional I-NP
 299,000 None
@@ -2899,6 +3021,7 @@ stock I-NP
 buy-back I-NP
 program I-NP
 . O
+
 Georgia B-NP
 Gulf B-NP
 Corp. I-NP
@@ -2931,6 +3054,7 @@ the B-NP
 year-earlier I-NP
 period I-NP
 . O
+
 Congress B-NP
 sent B-VP
 President B-NP
@@ -2967,6 +3091,7 @@ nearly B-ADJP
 a B-LST
 third I-NP
 . O
+
 The B-NP
 House I-NP
 Public I-NP
@@ -3000,6 +3125,7 @@ the B-NP
 Bush I-NP
 administration I-NP
 . O
+
 Polls B-NP
 are B-VP
 no I-INTJ
@@ -3015,6 +3141,7 @@ for B-PP
 some B-NP
 politicians B-NP
 . O
+
 In B-PP
 New B-NP
 York I-NP
@@ -3028,6 +3155,7 @@ would B-VP
 n't I-VP
 comment I-VP
 . O
+
 Pfizer B-NP
 said B-VP
 third-quarter B-NP
@@ -3044,6 +3172,7 @@ $ B-NP
 1.38 I-NP
 billion I-NP
 . O
+
 What B-NP
 loyalty I-NP
 there B-ADVP
@@ -3068,6 +3197,7 @@ located B-VP
 service I-NP
 stations I-NP
 . O
+
 The B-NP
 charge I-NP
 on B-PRT
@@ -3083,6 +3213,7 @@ Federal I-NP
 Reserve I-NP
 Bank I-NP
 . O
+
 A B-NP
 major I-NP
 chunk I-NP
@@ -3114,11 +3245,13 @@ for B-PP
 Mr. B-NP
 Agnos I-NP
 . O
+
 Pharmaceuticals B-NP
 made I-VP
 across-the-board None
 advances I-NP
 . O
+
 The B-NP
 shutdown I-NP
 will B-VP
@@ -3138,6 +3271,7 @@ heavy B-NP
 duty I-NP
 trucks I-NP
 . O
+
 The B-NP
 day I-NP
 before I-SBAR
@@ -3154,6 +3288,7 @@ training I-NP
 and I-UCP
 drills None
 . O
+
 The B-NP
 action I-NP
 abandons None
@@ -3185,6 +3320,7 @@ authorized None
 in B-PP
 1988 B-NP
 . O
+
 In B-PP
 a B-LST
 sharply B-ADVP
@@ -3225,6 +3361,7 @@ the B-NP
 administration I-NP
 elsewhere I-ADVP
 . O
+
 Sales B-NP
 of I-PP
 new I-NP
@@ -3242,6 +3379,7 @@ climbing I-VP
 , O
 dropped B-VP
 . O
+
 Edward B-NP
 J. I-NP
 Campbell B-NP
@@ -3280,6 +3418,7 @@ in B-PP
 those B-NP
 areas I-NP
 . O
+
 I B-NP
 think B-VP
 that B-SBAR
@@ -3295,6 +3434,7 @@ sent B-VP
 me B-NP
 here B-ADVP
 . O
+
 But O
 a B-LST
 House I-NP
@@ -3322,6 +3462,7 @@ Banking I-NP
 panel I-NP
 Thursday B-NP
 . O
+
 When B-ADVP
 Disney I-NP
 offered I-VP
@@ -3352,6 +3493,7 @@ to B-PP
 other B-NP
 shareholders I-NP
 . O
+
 Those B-NP
 hearings I-NP
 also I-CONJP
@@ -3392,6 +3534,7 @@ his B-NP
 own I-NP
 drug-dealing None
 . O
+
 On B-PP
 a B-LST
 day I-NP
@@ -3446,6 +3589,7 @@ at B-PP
 $ B-NP
 198 I-NP
 . O
+
 The B-NP
 administration I-NP
 and I-UCP
@@ -3465,6 +3609,7 @@ Cambodia B-NP
 's B-NP
 non-communists I-NP
 . O
+
 They B-NP
 worry I-VP
 that B-SBAR
@@ -3493,6 +3638,7 @@ trade I-NP
 all I-ADVP
 around B-PRT
 . O
+
 On B-PP
 a B-LST
 per-share I-NP
@@ -3520,10 +3666,12 @@ share I-NP
 buy-back I-NP
 program I-NP
 . O
+
 He B-NP
 was B-VP
 superb None
 . O
+
 Bank I-NP
 Building I-NP
 , O
@@ -3563,6 +3711,7 @@ its B-NP
 units I-NP
 . O
 '' O
+
 They B-NP
 have I-VP
 sent B-VP
@@ -3585,6 +3734,7 @@ given I-VP
 preferential B-NP
 treatment I-NP
 . O
+
 Oncor B-NP
 , O
 a B-LST
@@ -3619,6 +3769,7 @@ Mr. B-NP
 Turner I-NP
 said B-VP
 . O
+
 The B-NP
 fight I-VP
 between B-PP
@@ -3651,6 +3802,7 @@ for B-PP
 the B-NP
 service I-NP
 . O
+
 In B-PP
 fact I-ADVP
 it B-NP
@@ -3701,6 +3853,7 @@ overhanging None
 the B-NP
 market I-NP
 . O
+
 An B-NP
 investment I-NP
 group I-NP
@@ -3735,6 +3888,7 @@ of I-PP
 the B-NP
 legislation I-NP
 . O
+
 The B-NP
 Khmer I-NP
 Rouge I-NP
@@ -3749,6 +3903,7 @@ for B-PP
 Cambodian I-NP
 tyranny None
 . O
+
 Instead B-ADVP
 of I-PP
 focusing I-VP
@@ -3791,6 +3946,7 @@ Nicaragua B-NP
 Sandinista I-NP
 government I-NP
 . O
+
 -LRB- O
 In B-PP
 the B-NP
@@ -3804,6 +3960,7 @@ almost B-ADJP
 stalled I-VP
 out B-PRT
 . O
+
 He B-NP
 plans B-VP
 to B-PP
@@ -3819,6 +3976,7 @@ coats I-NP
 and I-UCP
 jackets I-NP
 . O
+
 It B-NP
 closed B-VP
 yesterday B-NP
@@ -3826,6 +3984,7 @@ at B-PP
 34 B-NP
 3\/4 I-NP
 . O
+
 The B-NP
 sheer I-NP
 number I-NP
@@ -3844,6 +4003,7 @@ impossible B-ADJP
 to B-PP
 regulate I-VP
 . O
+
 The B-NP
 Bush I-NP
 administration I-NP
@@ -3871,6 +4031,7 @@ after B-SBAR
 Hurricane B-NP
 Hugo I-NP
 . O
+
 The B-NP
 state I-NP
 began B-VP
@@ -3889,6 +4050,7 @@ numerous B-NP
 bridges I-NP
 collapsed B-VP
 . O
+
 Among B-PP
 possible B-ADJP
 delays I-NP
@@ -3926,6 +4088,7 @@ or I-PP
 second I-NP
 half I-ADVP
 . O
+
 The B-NP
 latest I-NP
 10-year I-NP
@@ -3950,6 +4113,7 @@ yield I-VP
 8.007 None
 % I-ADJP
 . O
+
 If B-SBAR
 conservatives I-NP
 do B-VP
@@ -3978,6 +4142,7 @@ explain I-VP
 the B-NP
 alternative I-NP
 . O
+
 Thus B-ADVP
 , O
 any B-NP
@@ -4007,6 +4172,7 @@ the B-NP
 good I-ADJP
 ones I-NP
 . O
+
 UAL B-NP
 declined B-VP
 to B-PP
@@ -4017,6 +4183,7 @@ Air I-NP
 's B-NP
 statement I-NP
 . O
+
 `` O
 The B-NP
 prognosis None
@@ -4039,6 +4206,7 @@ to B-PP
 Life I-NP
 Committee I-NP
 . O
+
 They B-NP
 can B-VP
 cut I-VP
@@ -4056,6 +4224,7 @@ up B-PRT
 through B-PRT
 college B-NP
 . O
+
 `` O
 You B-NP
 eliminate I-VP
@@ -4071,6 +4240,7 @@ in B-PP
 price I-NP
 . O
 '' O
+
 `` O
 It B-NP
 was B-VP
@@ -4110,6 +4280,7 @@ any B-NP
 other B-NP
 dealership None
 . O
+
 `` O
 As B-SBAR
 that B-SBAR
@@ -4131,6 +4302,7 @@ well I-CONJP
 he B-NP
 says B-VP
 . O
+
 Excluding B-PP
 tax I-NP
 credits I-NP
@@ -4144,6 +4316,7 @@ the B-NP
 second I-NP
 quarter I-NP
 . O
+
 Underwriters B-NP
 insist B-VP
 these B-NP
@@ -4157,6 +4330,7 @@ tough I-ADJP
 economic I-ADJP
 conditions I-NP
 . O
+
 One B-NP
 exception I-NP
 is I-INTJ
@@ -4182,6 +4356,7 @@ the B-NP
 electrolytic I-NP
 cells I-NP
 . O
+
 The B-NP
 September B-NP
 decline I-VP
@@ -4217,6 +4392,7 @@ of I-PP
 a B-LST
 recession I-NP
 . O
+
 Sen. B-NP
 Boren I-NP
 said B-VP
@@ -4238,6 +4414,7 @@ violate I-VP
 classification None
 rules I-NP
 . O
+
 Without B-PP
 a B-LST
 microscope None
@@ -4269,6 +4446,7 @@ the B-NP
 solicitation I-NP
 itself B-NP
 . O
+
 Instead B-ADVP
 , O
 they B-NP
@@ -4287,12 +4465,14 @@ the B-NP
 HUD B-NP
 scandal I-NP
 . O
+
 Here B-ADVP
 are B-VP
 four B-NP
 key I-NP
 steps I-NP
 : O
+
 Japanese B-NP
 banks I-NP
 accounted B-VP
@@ -4315,6 +4495,7 @@ Secretary I-NP
 Samuel B-NP
 Skinner I-NP
 . O
+
 As B-SBAR
 previously B-ADVP
 reported B-VP
@@ -4346,6 +4527,7 @@ to B-PP
 overpurchase None
 services I-NP
 . O
+
 The B-NP
 bank I-NP
 's B-NP
@@ -4375,6 +4557,7 @@ the B-NP
 bank I-NP
 said B-VP
 . O
+
 The B-NP
 bank I-NP
 has B-VP
@@ -4386,6 +4569,7 @@ worth B-ADJP
 they B-NP
 say B-INTJ
 . O
+
 Brokers B-NP
 agreed B-VP
 with B-PP
@@ -4394,6 +4578,7 @@ two-tier I-NP
 price I-NP
 theory I-NP
 . O
+
 If B-SBAR
 no I-INTJ
 margin I-NP
@@ -4422,6 +4607,7 @@ plus O
 point I-ADVP
 thereafter I-ADVP
 . O
+
 Scott B-NP
 Black I-NP
 , O
@@ -4463,6 +4649,7 @@ that B-SBAR
 much I-ADVP
 . O
 '' O
+
 The B-NP
 crowd B-NP
 remained B-VP
@@ -4472,6 +4659,7 @@ natured None
 even B-ADVP
 bemused None
 . O
+
 In B-PP
 the B-NP
 wake I-NP
@@ -4499,6 +4687,7 @@ question I-NP
 of I-PP
 preparedness None
 . O
+
 TransAtlantic B-NP
 Holdings I-NP
 PLC I-NP
@@ -4540,6 +4729,7 @@ Assurance I-NP
 Society I-NP
 PLC I-NP
 . O
+
 At B-PP
 the B-NP
 opening I-VP
@@ -4577,6 +4767,7 @@ and I-UCP
 housing B-NP
 lenders B-NP
 . O
+
 `` O
 I B-NP
 think B-VP
@@ -4600,6 +4791,7 @@ airport I-NP
 spokesman I-NP
 said B-VP
 . O
+
 He B-NP
 said B-VP
 the B-NP
@@ -4621,6 +4813,7 @@ service I-NP
 their B-NP
 loans I-NP
 . O
+
 Mr. B-NP
 Angrist None
 writes B-VP
@@ -4636,6 +4829,7 @@ Wall B-NP
 Street I-NP
 Journal I-NP
 . O
+
 For B-PP
 the B-NP
 nine I-NP
@@ -4655,6 +4849,7 @@ $ B-NP
 a B-LST
 share I-NP
 . O
+
 Fannie B-NP
 Mae I-NP
 , O
@@ -4688,6 +4883,7 @@ in B-PP
 every I-ADVP
 state I-NP
 . O
+
 Capitalizing None
 on B-PRT
 that B-SBAR
@@ -4709,6 +4905,7 @@ market I-NP
 in B-PP
 Europe B-NP
 . O
+
 Bolstered None
 by B-PP
 strong I-ADJP
@@ -4764,6 +4961,7 @@ a B-LST
 year I-NP
 earlier B-ADVP
 . O
+
 In B-PP
 Big I-NP
 Board I-NP
@@ -4782,6 +4980,7 @@ up B-PRT
 $ B-NP
 1.625 None
 . O
+
 `` O
 For B-PP
 there B-ADVP
@@ -4811,6 +5010,7 @@ says B-VP
 Rep. B-NP
 Burton I-NP
 . O
+
 According B-PP
 to B-PP
 news I-NP
@@ -4833,11 +5033,13 @@ the B-NP
 peace I-NP
 process I-NP
 . O
+
 June B-NP
 1 B-LST
 , O
 1987 B-NP
 : O
+
 Frank B-NP
 grovels None
 a B-LST
@@ -4864,6 +5066,7 @@ a B-LST
 big I-ADJP
 corporation I-NP
 . O
+
 The B-NP
 Bush I-NP
 administration I-NP
@@ -4890,12 +5093,14 @@ comprehensive B-NP
 clean-air None
 bill I-NP
 . O
+
 Not B-CONJP
 a B-LST
 peso None
 is I-INTJ
 offered I-VP
 . O
+
 `` O
 I B-NP
 do B-VP
@@ -4911,6 +5116,7 @@ country I-NP
 she B-NP
 says B-VP
 . O
+
 Serial B-NP
 bonds I-NP
 were B-VP
@@ -4923,6 +5129,7 @@ to B-PP
 in B-PP
 2000 I-NP
 . O
+
 In B-PP
 other B-NP
 words I-NP
@@ -4943,6 +5150,7 @@ to B-PP
 the B-NP
 rescue I-NP
 . O
+
 Two B-NP
 weeks I-NP
 after B-SBAR
@@ -4970,6 +5178,7 @@ to B-PP
 come I-VP
 . O
 '' O
+
 After B-SBAR
 the B-NP
 close B-ADJP
@@ -5007,6 +5216,7 @@ a B-LST
 year I-NP
 earlier B-ADVP
 . O
+
 In B-PP
 the B-NP
 case I-NP
@@ -5032,6 +5242,7 @@ the B-NP
 Republican I-NP
 coalition I-NP
 . O
+
 Until B-SBAR
 then B-ADVP
 , O
@@ -5046,6 +5257,7 @@ simply B-ADVP
 is I-INTJ
 wasted I-VP
 . O
+
 So B-ADVP
 a B-LST
 stock I-NP
@@ -5072,6 +5284,7 @@ and I-UCP
 so B-ADJP
 on B-PRT
 . O
+
 But O
 the B-NP
 pilots I-NP
@@ -5115,6 +5328,7 @@ replace I-VP
 British B-NP
 Air I-NP
 . O
+
 Among B-PP
 engineering I-NP
 firms I-NP
@@ -5186,6 +5400,7 @@ to B-PP
 8 B-NP
 1\/2 I-ADJP
 . O
+
 At B-PP
 Citicorp B-NP
 , O
@@ -5208,6 +5423,7 @@ skill None
 in B-PP
 complaint-resolution None
 . O
+
 In B-PP
 consenting None
 to B-PP
@@ -5226,6 +5442,7 @@ denied I-VP
 the B-NP
 allegations I-NP
 . O
+
 Though B-SBAR
 it B-NP
 's B-NP
@@ -5272,6 +5489,7 @@ a B-LST
 financial I-ADJP
 planner I-NP
 . O
+
 Prompted None
 by B-PP
 an B-NP
@@ -5319,6 +5537,7 @@ an B-NP
 emergency B-NP
 headquarters I-NP
 . O
+
 But O
 despite B-PP
 the B-NP
@@ -5347,6 +5566,7 @@ U.K. I-NP
 interest I-NP
 rates I-NP
 . O
+
 If B-SBAR
 they B-NP
 put I-VP
@@ -5390,12 +5610,14 @@ their B-NP
 respective I-NP
 constituencies None
 . O
+
 Nausea None
 seems B-VP
 a B-LST
 commonplace I-ADJP
 symptom None
 . O
+
 James B-NP
 L. I-NP
 Madson None
@@ -5422,6 +5644,7 @@ and I-UCP
 other B-NP
 minerals I-NP
 . O
+
 Mr. B-NP
 Cawthorn I-NP
 said B-VP
@@ -5447,10 +5670,12 @@ than I-CONJP
 % I-ADJP
 . O
 '' O
+
 `` O
 With B-SBAR
 pleasure I-NP
 . O
+
 But O
 lawyers I-NP
 said B-VP
@@ -5481,6 +5706,7 @@ of I-PP
 all I-ADVP
 shareholders I-NP
 . O
+
 So B-ADVP
 the B-NP
 men I-NP
@@ -5510,6 +5736,7 @@ of I-PP
 all-options None
 trading I-NP
 . O
+
 But O
 since B-SBAR
 returning I-VP
@@ -5533,6 +5760,7 @@ with B-PP
 archrival I-NP
 Folgers I-NP
 . O
+
 World-wide B-NP
 sales I-NP
 of I-PP
@@ -5558,6 +5786,7 @@ $ B-NP
 277 None
 million I-NP
 . O
+
 Third B-LST
 and I-UCP
 most B-ADJP
@@ -5616,6 +5845,7 @@ whole B-ADJP
 thing I-NP
 worthwhile None
 . O
+
 In B-PP
 filing I-NP
 an B-NP
@@ -5657,6 +5887,7 @@ jointly B-ADVP
 or I-PP
 separately B-ADVP
 . O
+
 Robert B-NP
 Delaney None
 , O
@@ -5686,6 +5917,7 @@ in B-PP
 freight-cost None
 reductions I-NP
 . O
+
 Investors B-NP
 will B-VP
 develop I-VP
@@ -5703,6 +5935,7 @@ return I-VP
 he B-NP
 says B-VP
 . O
+
 `` O
 They B-NP
 need B-VP
@@ -5723,6 +5956,7 @@ PaineWebber B-NP
 Group I-NP
 Inc I-NP
 . O
+
 The B-NP
 charge I-NP
 on B-PRT
@@ -5734,6 +5968,7 @@ stock I-NP
 exchange I-NP
 collateral I-NP
 . O
+
 To B-VP
 the B-NP
 extent I-NP
@@ -5789,8 +6024,10 @@ Democrats I-NP
 in B-PP
 office I-NP
 . O
+
 Always None
 . O
+
 `` O
 Nope None
 , O
@@ -5807,6 +6044,7 @@ Mr. B-NP
 Corcoran I-NP
 replies None
 . O
+
 So B-ADVP
 the B-NP
 Federal I-NP
@@ -5820,6 +6058,7 @@ complaint B-NP
 by B-PP
 politicians B-NP
 . O
+
 `` O
 They B-NP
 may B-VP
@@ -5840,6 +6079,7 @@ right I-ADJP
 time I-NP
 . O
 '' O
+
 Among B-PP
 the B-NP
 insurance I-NP
@@ -5892,6 +6132,7 @@ to B-PP
 $ B-NP
 75.875 None
 . O
+
 `` O
 All B-ADVP
 our B-NP
@@ -5928,6 +6169,7 @@ dividend I-NP
 he B-NP
 added B-VP
 . O
+
 The B-NP
 British B-NP
 firm I-NP
@@ -5967,6 +6209,7 @@ of I-PP
 the B-NP
 world I-NP
 . O
+
 The B-NP
 heavy B-NP
 selling B-VP
@@ -5979,6 +6222,7 @@ the B-NP
 price I-NP
 rally I-NP
 . O
+
 Renault I-NP
 officials I-NP
 said B-VP
@@ -6019,6 +6263,7 @@ about B-PP
 11 B-NP
 % I-ADJP
 . O
+
 Analysts B-NP
 estimate I-NP
 Colgate B-NP
@@ -6049,6 +6294,7 @@ to B-PP
 3 B-LST
 % I-ADJP
 . O
+
 The B-NP
 tremendous B-NP
 energy I-NP
@@ -6090,6 +6336,7 @@ asphalt B-NP
 or I-PP
 sidewalks I-NP
 . O
+
 The B-NP
 debentures I-NP
 were B-VP
@@ -6123,6 +6370,7 @@ construction I-NP
 company I-NP
 said B-VP
 . O
+
 Reebok B-NP
 International I-NP
 Ltd. I-NP
@@ -6142,6 +6390,7 @@ decline I-VP
 in B-PP
 sales I-NP
 . O
+
 The B-NP
 Canadian I-NP
 government I-NP
@@ -6169,6 +6418,7 @@ Saskatchewan I-NP
 and I-UCP
 Manitoba I-NP
 . O
+
 Although B-SBAR
 , O
 his B-NP
@@ -6210,6 +6460,7 @@ Senate I-NP
 Intelligence I-NP
 Committee I-NP
 . O
+
 Combustion None
 Engineering I-NP
 , O
@@ -6237,6 +6488,7 @@ Cairo None
 , O
 Ill B-NP
 . O
+
 Now B-INTJ
 she B-NP
 leads B-VP
@@ -6255,6 +6507,7 @@ candidate I-NP
 James B-NP
 Florio I-NP
 . O
+
 Dun B-NP
 & I-NP
 Bradstreet I-NP
@@ -6269,6 +6522,7 @@ on B-PRT
 million I-NP
 shares I-NP
 . O
+
 To B-VP
 help I-VP
 residents B-NP
@@ -6321,12 +6575,14 @@ individual B-NP
 assistance I-NP
 division I-NP
 . O
+
 Revenue B-NP
 was B-VP
 21.98 None
 billion I-NP
 francs I-NP
 . O
+
 `` O
 They B-NP
 're B-VP
@@ -6366,6 +6622,7 @@ the B-NP
 Vanities None
 . O
 '' O
+
 Was O
 300 I-NP
 ft. None
@@ -6377,6 +6634,7 @@ in B-PP
 San B-NP
 Rafael I-NP
 . O
+
 The B-NP
 average B-ADJP
 dropped B-VP
@@ -6400,6 +6658,7 @@ began B-VP
 Oct. B-NP
 10 I-ADVP
 . O
+
 Revenue B-NP
 from B-PP
 financial I-ADJP
@@ -6421,6 +6680,7 @@ a B-LST
 year I-NP
 ago B-ADVP
 . O
+
 Carriers None
 could B-VP
 use I-VP
@@ -6438,6 +6698,7 @@ eager B-ADJP
 to B-PP
 fill I-VP
 . O
+
 Bofors I-NP
 says B-VP
 it B-NP
@@ -6456,6 +6717,7 @@ jeopardize None
 industrial I-NP
 confidentiality None
 . O
+
 UAL B-NP
 stock I-NP
 dropped B-VP
@@ -6480,6 +6742,7 @@ York I-NP
 Stock I-NP
 Exchange I-NP
 . O
+
 In B-PP
 the B-NP
 first B-ADVP
@@ -6509,6 +6772,7 @@ pushed I-VP
 prices I-NP
 lower I-ADJP
 . O
+
 Long B-NP
 lines I-NP
 of I-PP
@@ -6525,6 +6789,7 @@ with B-PP
 official I-NP
 postmarks I-NP
 . O
+
 Most B-NP
 of I-PP
 trading I-NP
@@ -6556,6 +6821,7 @@ other B-NP
 traders B-NP
 said B-VP
 . O
+
 Your B-NP
 Sept. B-NP
 27 B-NP
@@ -6586,6 +6852,7 @@ than I-CONJP
 an B-NP
 inconvenience I-NP
 . O
+
 Frank B-NP
 B. I-NP
 Hall I-NP
@@ -6604,6 +6871,7 @@ agreement I-NP
 with B-PP
 Helmsley B-NP
 . O
+
 Also B-ADVP
 , O
 he B-NP
@@ -6622,6 +6890,7 @@ to B-PP
 a B-LST
 customer I-NP
 . O
+
 Refcorp B-NP
 is I-INTJ
 the B-NP
@@ -6645,6 +6914,7 @@ nation I-NP
 troubled I-ADJP
 thrifts I-NP
 . O
+
 For B-PP
 the B-NP
 fourth I-NP
@@ -6659,6 +6929,7 @@ set I-VP
 of I-PP
 earnings I-NP
 . O
+
 Says B-VP
 Clayt None
 Wilhite None
@@ -6702,6 +6973,7 @@ like B-PP
 Budweiser None
 . O
 '' O
+
 By B-PP
 1982 B-NP
 the B-NP
@@ -6730,6 +7002,7 @@ at B-PP
 43 B-ADVP
 cents I-NP
 . O
+
 Though B-SBAR
 Democrats I-NP
 can B-VP
@@ -6748,6 +7021,7 @@ contain I-VP
 their B-NP
 glee None
 . O
+
 Even B-SBAR
 at B-PP
 this B-NP
@@ -6759,6 +7033,7 @@ caused B-VP
 additional I-NP
 concerns I-NP
 . O
+
 Computer I-NP
 picking I-VP
 is I-INTJ
@@ -6776,18 +7051,21 @@ founder I-NP
 of I-PP
 Pinpoint B-NP
 . O
+
 Merger None
 Fallout None
 : O
 Beware None
 Employee None
 Dishonesty None
+
 Mr. B-NP
 Baldwin None
 likes I-NP
 the B-NP
 offering I-NP
 . O
+
 At B-PP
 the B-NP
 end I-NP
@@ -6803,6 +7081,7 @@ offer I-VP
 the B-NP
 bank I-NP
 . O
+
 The B-NP
 quake I-NP
 knocked I-VP
@@ -6827,6 +7106,7 @@ emotional I-ADJP
 first-hand None
 reports I-NP
 . O
+
 The B-NP
 move I-VP
 to B-PP
@@ -6869,6 +7149,7 @@ the B-NP
 U.S. I-NP
 market I-NP
 . O
+
 Arkansas None
 Democrat I-NP
 David B-NP
@@ -6901,6 +7182,7 @@ must B-VP
 tell I-VP
 you B-NP
 ... O
+
 Brands I-NP
 made I-VP
 by B-PP
@@ -6922,6 +7204,7 @@ the B-NP
 market I-NP
 share I-NP
 . O
+
 A B-NP
 one-time I-NP
 noncontract None
@@ -6939,6 +7222,7 @@ cost I-VP
 $ B-NP
 99,385 None
 . O
+
 After B-SBAR
 the B-NP
 vote I-VP
@@ -6965,6 +7249,7 @@ not B-CONJP
 to B-PP
 veto I-VP
 . O
+
 `` O
 If B-SBAR
 that B-SBAR
@@ -6984,6 +7269,7 @@ of I-PP
 that B-SBAR
 . O
 '' O
+
 Portfolio B-NP
 B I-NP
 : O
@@ -6997,6 +7283,7 @@ $ B-NP
 150,000 I-NP
 portfolio I-NP
 . O
+
 The B-NP
 company I-NP
 said B-VP
@@ -7026,6 +7313,7 @@ Stock I-NP
 Ownership None
 Plans B-NP
 . O
+
 Mr. B-NP
 Gintel I-NP
 has B-VP
@@ -7044,6 +7332,7 @@ Xtra B-NP
 anti-takeover I-NP
 tactic None
 . O
+
 UAL'S None
 STOCK None
 SKIDDED None
@@ -7081,6 +7370,7 @@ Air I-NP
 's B-NP
 parent I-NP
 . O
+
 Eastern B-NP
 said B-VP
 it B-NP
@@ -7113,6 +7403,7 @@ early I-ADVP
 next B-ADVP
 year I-NP
 . O
+
 B.A.T B-NP
 aims None
 to B-PP
@@ -7144,6 +7435,7 @@ to B-PP
 existing I-NP
 holders I-NP
 . O
+
 Ciba-Geigy B-NP
 and I-UCP
 Chiron B-NP
@@ -7175,6 +7467,7 @@ C$ I-NP
 942 None
 million I-NP
 . O
+
 This B-NP
 compares B-VP
 with B-PP
@@ -7201,6 +7494,7 @@ quarter I-NP
 of I-PP
 1988 B-NP
 . O
+
 The B-NP
 accord I-NP
 with B-PP
@@ -7221,9 +7515,11 @@ the B-NP
 companies I-NP
 said B-VP
 . O
+
 Warner-Lambert B-NP
 Co I-NP
 . O
+
 The B-NP
 one-hour None
 program I-NP
@@ -7236,6 +7532,7 @@ throughout B-PP
 Saturday B-NP
 mornings I-NP
 . O
+
 A B-NP
 previously B-ADVP
 available B-ADJP
@@ -7279,6 +7576,7 @@ for B-PP
 simultaneous B-NP
 processing I-NP
 . O
+
 Ten None
 of I-PP
 the B-NP
@@ -7303,6 +7601,7 @@ seven B-NP
 were B-VP
 hospitalized None
 . O
+
 When B-ADVP
 they B-NP
 do B-VP
@@ -7330,6 +7629,7 @@ of I-PP
 McGraw-Hill B-NP
 Inc I-NP
 . O
+
 Our B-NP
 heavy B-NP
 users I-NP
@@ -7352,6 +7652,7 @@ increase I-VP
 that B-SBAR
 . O
 '' O
+
 In B-PP
 1984 B-NP
 , O
@@ -7381,6 +7682,7 @@ of I-PP
 Sandinista I-NP
 propaganda None
 . O
+
 But O
 rail I-NP
 , O
@@ -7417,6 +7719,7 @@ transport I-VP
 officials I-NP
 said B-VP
 . O
+
 There B-NP
 is I-INTJ
 n't I-VP
@@ -7437,6 +7740,7 @@ gold B-NP
 he B-NP
 said B-VP
 . O
+
 The B-NP
 idea I-NP
 was B-VP
@@ -7466,6 +7770,7 @@ the B-NP
 stocks I-NP
 themselves B-NP
 . O
+
 Still B-ADVP
 , O
 AMR B-NP
@@ -7482,6 +7787,7 @@ of I-PP
 the B-NP
 industry I-NP
 . O
+
 He B-NP
 favors B-VP
 either I-PP
@@ -7499,6 +7805,7 @@ stocks I-NP
 and I-UCP
 bonds I-NP
 . O
+
 The B-NP
 hotels I-NP
 and I-UCP
@@ -7530,6 +7837,7 @@ of I-PP
 the B-NP
 corporation I-NP
 . O
+
 Digital B-NP
 Equipment I-NP
 's B-NP
@@ -7549,6 +7857,7 @@ weaker B-ADJP
 results I-NP
 ahead B-ADVP
 . O
+
 A B-NP
 spokesman I-NP
 for B-PP
@@ -7574,6 +7883,7 @@ what B-NP
 happened B-VP
 . O
 '' O
+
 The B-NP
 group I-NP
 has B-VP
@@ -7603,6 +7913,7 @@ $ B-NP
 5.42 None
 billion I-NP
 . O
+
 In B-PP
 Texas B-ADJP
 , O
@@ -7641,6 +7952,7 @@ weeks I-NP
 and I-UCP
 older B-ADJP
 . O
+
 West I-NP
 German I-NP
 government I-NP
@@ -7651,6 +7963,7 @@ analysts B-NP
 are B-VP
 doubtful None
 . O
+
 Imprisoned None
 by B-PP
 the B-NP
@@ -7684,6 +7997,7 @@ cues None
 from B-PP
 Moscow B-NP
 . O
+
 `` O
 The B-NP
 computers I-NP
@@ -7702,6 +8016,7 @@ confirm I-VP
 every I-ADVP
 one B-NP
 . O
+
 Experts B-NP
 caution B-VP
 that B-SBAR
@@ -7734,6 +8049,7 @@ out B-PRT
 enormous I-ADJP
 sums I-NP
 . O
+
 Brady I-NP
 and I-UCP
 Breeden I-NP
@@ -7760,6 +8076,7 @@ the B-NP
 SEC I-NP
 post I-VP
 . O
+
 To B-VP
 make I-VP
 skiing B-NP
@@ -7780,6 +8097,7 @@ own I-NP
 travel I-VP
 agencies I-NP
 . O
+
 Biking I-NP
 groups I-NP
 in B-PP
@@ -7806,6 +8124,7 @@ of I-PP
 Bicycling None
 magazine I-NP
 . O
+
 The B-NP
 exhibition None
 by B-PP
@@ -7839,6 +8158,7 @@ $ B-NP
 3 B-LST
 billion I-NP
 . O
+
 Callable B-ADJP
 from B-PP
 March B-NP
@@ -7857,6 +8177,7 @@ semi-annually None
 to B-PP
 par B-NP
 . O
+
 `` O
 We B-NP
 think B-VP
@@ -7879,6 +8200,7 @@ Mr. B-NP
 Hicks None
 declares B-VP
 . O
+
 State B-NP
 law I-NP
 enforcers B-NP
@@ -7907,6 +8229,7 @@ are B-VP
 not B-CONJP
 encouraging B-VP
 . O
+
 Even B-SBAR
 though I-SBAR
 the B-NP
@@ -7926,6 +8249,7 @@ senator None
 's B-NP
 permission B-NP
 . O
+
 Robert B-NP
 J. I-NP
 Regal I-NP
@@ -7944,6 +8268,7 @@ Universal-Rundle None
 Corp. I-NP
 unit I-NP
 . O
+
 The B-NP
 mayor I-NP
 said B-VP
@@ -7957,6 +8282,7 @@ publicity I-NP
 stunt None
 . O
 '' O
+
 Sales B-NP
 in B-PP
 the B-NP
@@ -7977,6 +8303,7 @@ the B-NP
 1988 B-NP
 quarter I-NP
 . O
+
 And O
 `` O
 shippers I-NP
@@ -8003,6 +8330,7 @@ can B-VP
 he B-NP
 said B-VP
 . O
+
 Millicom B-NP
 said B-VP
 it B-NP
@@ -8033,6 +8361,7 @@ International I-NP
 , O
 Pakistan B-NP
 . O
+
 The B-NP
 loans I-NP
 can B-VP
@@ -8057,6 +8386,7 @@ for B-PP
 sale-lease-back None
 transactions I-NP
 . O
+
 NAS None
 is I-INTJ
 National I-NP
@@ -8075,6 +8405,7 @@ Information I-NP
 Systems I-NP
 Inc I-NP
 . O
+
 Before B-SBAR
 American B-NP
 foreign B-NP
@@ -8103,6 +8434,7 @@ conspirators None
 and I-UCP
 pirates None
 . O
+
 The B-NP
 secretary I-NP
 would B-VP
@@ -8147,6 +8479,7 @@ a B-LST
 foreign B-NP
 interest I-NP
 . O
+
 In B-PP
 New B-NP
 York I-NP
@@ -8175,6 +8508,7 @@ declined B-VP
 further I-ADVP
 comment I-VP
 . O
+
 Her B-NP
 story I-NP
 is I-INTJ
@@ -8184,6 +8518,7 @@ of I-PP
 local B-ADJP
 folklore I-NP
 . O
+
 One B-NP
 60-second None
 TV I-NP
@@ -8214,6 +8549,7 @@ a B-LST
 blind B-ADJP
 skier I-NP
 . O
+
 `` O
 Every B-NP
 time I-NP
@@ -8241,6 +8577,7 @@ it B-NP
 came B-VP
 down B-PRT
 . O
+
 Thermal None
 paper I-NP
 is I-INTJ
@@ -8249,6 +8586,7 @@ in B-PP
 facsimile I-NP
 machines I-NP
 . O
+
 An B-NP
 additional I-NP
 500 I-NP
@@ -8269,6 +8607,7 @@ Bavaria B-NP
 and I-UCP
 Baden-Wuerttemberg None
 . O
+
 Randy B-NP
 Delchamps I-NP
 was B-VP
@@ -8283,6 +8622,7 @@ this B-NP
 grocery I-NP
 chain I-NP
 . O
+
 `` O
 It B-NP
 may B-VP
@@ -8314,6 +8654,7 @@ deal I-NP
 he B-NP
 said B-VP
 . O
+
 Sens. B-NP
 John B-NP
 Glenn B-NP
@@ -8355,6 +8696,7 @@ behalf B-NP
 of I-PP
 Lincoln B-NP
 . O
+
 As B-SBAR
 a B-LST
 result I-VP
@@ -8377,6 +8719,7 @@ for B-PP
 their B-NP
 money I-NP
 . O
+
 The B-NP
 trend I-NP
 drove B-VP
@@ -8408,6 +8751,7 @@ a B-LST
 year I-NP
 earlier B-ADVP
 . O
+
 Although B-SBAR
 Digital B-NP
 will B-VP
@@ -8433,6 +8777,7 @@ until B-SBAR
 next B-ADVP
 year I-NP
 . O
+
 The B-NP
 current I-ADJP
 transaction I-NP
@@ -8444,6 +8789,7 @@ $ B-NP
 140 I-NP
 million I-NP
 . O
+
 In B-PP
 composite I-NP
 trading I-NP
@@ -8464,6 +8810,7 @@ to B-PP
 $ B-NP
 73 B-NP
 . O
+
 Traditionally B-ADVP
 , O
 boiler B-NP
@@ -8485,6 +8832,7 @@ visit I-NP
 their B-NP
 offices I-NP
 . O
+
 Jeffrey B-NP
 Schaefer I-NP
 , O
@@ -8525,6 +8873,7 @@ Big I-NP
 Board I-NP
 data I-NP
 . O
+
 James B-NP
 A. I-NP
 Hagen I-NP
@@ -8558,6 +8907,7 @@ economic I-ADJP
 slowdown I-NP
 . O
 '' O
+
 Mr. B-NP
 Guber I-NP
 and I-UCP
@@ -8594,6 +8944,7 @@ up B-PRT
 with B-PP
 Sony B-NP
 . O
+
 But O
 there B-ADVP
 were B-VP
@@ -8618,6 +8969,7 @@ selling B-VP
 shorter-term None
 Treasurys B-NP
 . O
+
 The B-NP
 key I-NP
 will B-VP
@@ -8636,6 +8988,7 @@ stabilizes None
 he B-NP
 said B-VP
 . O
+
 Other B-NP
 projects I-NP
 look I-VP
@@ -8697,6 +9050,7 @@ to B-PP
 defer None
 tax I-NP
 . O
+
 He B-NP
 said B-VP
 the B-NP
@@ -8728,6 +9082,7 @@ significant B-ADJP
 challenge I-VP
 . O
 '' O
+
 But O
 Sotheby B-NP
 's B-NP
@@ -8748,6 +9103,7 @@ to B-PP
 get I-VP
 theirs B-NP
 . O
+
 Outside None
 the B-NP
 white-walled None
@@ -8770,6 +9126,7 @@ Africa I-NP
 abnormal None
 society I-NP
 . O
+
 But O
 other B-NP
 analysts B-NP
@@ -8810,6 +9167,7 @@ grip I-NP
 on B-PRT
 credit I-NP
 . O
+
 The B-NP
 announcement I-NP
 , O
@@ -8828,6 +9186,7 @@ meeting I-NP
 in B-PP
 Madrid B-NP
 . O
+
 Manhattan B-NP
 National I-NP
 Corp. I-NP
@@ -8856,6 +9215,7 @@ principal I-NP
 insurance I-NP
 subsidiaries I-NP
 . O
+
 Asked B-VP
 about B-PP
 the B-NP
@@ -8873,6 +9233,7 @@ totally B-ADJP
 disagree I-VP
 . O
 '' O
+
 Aetna B-NP
 and I-UCP
 other B-NP
@@ -8889,6 +9250,7 @@ assess I-VP
 structural I-NP
 damage I-NP
 . O
+
 He B-NP
 added B-VP
 that B-SBAR
@@ -8913,6 +9275,7 @@ Monday B-NP
 's B-NP
 rebound I-VP
 . O
+
 Broader B-NP
 averages I-NP
 also I-CONJP
@@ -8920,6 +9283,7 @@ posted B-VP
 modest B-ADJP
 gains I-NP
 . O
+
 U.S. I-NP
 official I-NP
 reserve I-NP
@@ -8941,6 +9305,7 @@ Treasury I-NP
 Department I-NP
 said B-VP
 . O
+
 The B-NP
 company I-NP
 , O
@@ -8969,6 +9334,7 @@ British B-NP
 beer I-NP
 market I-NP
 . O
+
 And O
 , O
 like B-PP
@@ -8980,6 +9346,7 @@ bonds I-NP
 are B-VP
 callable B-ADJP
 . O
+
 Died None
 : O
 Alfred B-NP
@@ -9006,6 +9373,7 @@ Canaan None
 , O
 Conn B-NP
 . O
+
 National I-NP
 Semiconductor I-NP
 Corp. I-NP
@@ -9042,6 +9410,7 @@ all I-ADVP
 products I-NP
 involved I-ADJP
 . O
+
 SIERRA None
 TUCSON None
 Cos. I-NP
@@ -9064,6 +9433,7 @@ $ B-NP
 30 I-NP
 million I-NP
 . O
+
 Mr. B-NP
 Smale None
 said B-VP
@@ -9081,6 +9451,7 @@ our B-NP
 business I-NP
 . O
 '' O
+
 Paramount B-NP
 Domestic B-NP
 TV I-NP
@@ -9135,6 +9506,7 @@ the B-NP
 Series I-NP
 . O
 '' O
+
 Lotus B-NP
 Development I-NP
 Corp. I-NP
@@ -9170,6 +9542,7 @@ its B-NP
 computer I-NP
 spreadsheet I-NP
 . O
+
 Investors B-NP
 , O
 for B-PP
@@ -9193,6 +9566,7 @@ guaranteeing B-VP
 the B-NP
 securities I-NP
 . O
+
 In B-PP
 addition B-NP
 , O
@@ -9220,6 +9594,7 @@ of I-PP
 its B-NP
 liquidation None
 . O
+
 The B-NP
 independent-contractor None
 project I-NP
@@ -9235,6 +9610,7 @@ about B-PP
 IRS I-NP
 agents I-NP
 . O
+
 Recovering None
 radiophonic None
 sovereignty I-NP
@@ -9261,6 +9637,7 @@ America I-NP
 VOA None
 -RRB- O
 . O
+
 The B-NP
 TVA I-NP
 's B-NP
@@ -9276,6 +9653,7 @@ the B-NP
 new-issue I-NP
 market I-NP
 . O
+
 Proceeds B-NP
 will B-VP
 be I-VP
@@ -9296,6 +9674,7 @@ company I-NP
 's B-NP
 operations I-NP
 . O
+
 Public I-NP
 protests B-VP
 against B-PP
@@ -9337,6 +9716,7 @@ Spadafora I-NP
 and I-UCP
 Torrijos I-NP
 . O
+
 But O
 there B-ADVP
 is I-INTJ
@@ -9350,6 +9730,7 @@ Rouge I-NP
 have I-VP
 changed I-ADJP
 . O
+
 The B-NP
 major I-NP
 legal I-NP
@@ -9372,6 +9753,7 @@ of I-PP
 God B-NP
 . O
 '' O
+
 The B-NP
 Galileo B-NP
 worm I-NP
@@ -9397,6 +9779,7 @@ Mr. B-NP
 Redmond I-NP
 said B-VP
 . O
+
 However B-ADVP
 , O
 the B-NP
@@ -9437,6 +9820,7 @@ than I-CONJP
 seven B-NP
 days I-NP
 . O
+
 The B-NP
 yield I-VP
 on B-PRT
@@ -9456,6 +9840,7 @@ at B-PP
 8.03 B-NP
 % I-ADJP
 . O
+
 People B-NP
 will B-VP
 say B-INTJ
@@ -9481,6 +9866,7 @@ which B-NP
 is I-INTJ
 true I-ADJP
 . O
+
 But O
 those B-NP
 represent I-VP
@@ -9504,6 +9890,7 @@ the B-NP
 right I-ADJP
 ones I-NP
 . O
+
 Last B-NP
 Friday B-NP
 , O
@@ -9521,6 +9908,7 @@ looking I-VP
 for B-PP
 compromise I-NP
 . O
+
 Other B-NP
 tax I-NP
 breaks I-NP
@@ -9548,6 +9936,7 @@ the B-NP
 tax I-NP
 overhaul I-VP
 . O
+
 But O
 of I-PP
 course B-NP
@@ -9570,6 +9959,7 @@ over B-PRT
 a B-LST
 company I-NP
 . O
+
 `` O
 People B-NP
 my B-NP
@@ -9584,6 +9974,7 @@ be I-VP
 an B-NP
 issue I-NP
 . O
+
 `` O
 It B-NP
 's B-NP
@@ -9591,12 +9982,14 @@ traders B-NP
 squaring None
 positions I-NP
 . O
+
 Berkeley B-NP
 very B-ADJP
 quiet B-NP
 right I-ADJP
 now B-ADVP
 . O
+
 `` O
 I B-NP
 do B-VP
@@ -9614,6 +10007,7 @@ apiece B-ADVP
 he B-NP
 says B-VP
 . O
+
 The B-NP
 consensus I-NP
 view I-NP
@@ -9667,6 +10061,7 @@ Inc. I-NP
 New B-NP
 York I-NP
 . O
+
 There B-NP
 were B-VP
 two B-NP
@@ -9683,6 +10078,7 @@ past I-NP
 30 I-NP
 years I-NP
 : O
+
 But O
 that B-SBAR
 is I-INTJ
@@ -9699,6 +10095,7 @@ has B-VP
 other B-NP
 objectives I-NP
 . O
+
 Stanley I-NP
 Rose I-NP
 , O
@@ -9737,6 +10134,7 @@ a B-LST
 DEC B-NP
 machine I-NP
 . O
+
 The B-NP
 industrial I-NP
 average B-ADJP
@@ -9747,6 +10145,7 @@ down B-PRT
 to B-PP
 2638.73 B-NP
 . O
+
 Even B-SBAR
 if I-SBAR
 there B-ADVP
@@ -9765,6 +10164,7 @@ is I-INTJ
 n't I-VP
 good I-ADJP
 . O
+
 Issues I-NP
 of I-PP
 insurance I-NP
@@ -9773,6 +10173,7 @@ were B-VP
 especially B-ADVP
 strong I-ADJP
 . O
+
 In B-PP
 composite I-NP
 trading I-NP
@@ -9796,6 +10197,7 @@ down B-PRT
 37.5 B-NP
 cents I-NP
 . O
+
 `` O
 In B-PP
 the B-NP
@@ -9817,6 +10219,7 @@ from B-PP
 seedy B-NP
 characters I-NP
 . O
+
 Eastern B-NP
 Airlines I-NP
 ' B-NP
@@ -9847,6 +10250,7 @@ to B-PP
 a B-LST
 reorganization I-NP
 . O
+
 Sales B-NP
 rose B-VP
 11 B-NP
@@ -9860,6 +10264,7 @@ $ B-NP
 6.94 None
 billion I-NP
 . O
+
 The B-NP
 five-member None
 Atlantis B-NP
@@ -9893,6 +10298,7 @@ Calif. B-NP
 , O
 Monday B-NP
 . O
+
 The B-NP
 employees I-NP
 also I-CONJP
@@ -9907,6 +10313,7 @@ by B-PP
 budgetary None
 concerns I-NP
 . O
+
 Reward None
 El B-NP
 Espectador I-NP
@@ -9916,6 +10323,7 @@ with B-PP
 real B-ADJP
 support I-VP
 . O
+
 It B-NP
 marked B-VP
 the B-NP
@@ -9936,6 +10344,7 @@ had B-VP
 acquitted I-VP
 him B-NP
 . O
+
 Mr. B-NP
 Mark I-NP
 attributed B-VP
@@ -9953,6 +10362,7 @@ Asia B-NP
 and I-UCP
 Europe B-NP
 . O
+
 Prime I-NP
 Minister I-NP
 Rajiv I-NP
@@ -9985,6 +10395,7 @@ of I-PP
 the B-NP
 government I-NP
 . O
+
 Antwerp None
 auctioneer None
 Campo B-NP
@@ -10004,6 +10415,7 @@ and I-UCP
 auction-fee None
 burden I-NP
 . O
+
 Mark I-NP
 , O
 an B-NP
@@ -10049,6 +10461,7 @@ Nov. B-NP
 , O
 1992 B-NP
 . O
+
 Mr. B-NP
 Langton I-NP
 is I-INTJ
@@ -10069,6 +10482,7 @@ hikers B-NP
 or I-PP
 backpackers None
 . O
+
 In B-PP
 national B-ADJP
 over-the-counter I-NP
@@ -10087,6 +10501,7 @@ down B-PRT
 87.5 B-NP
 cents I-NP
 . O
+
 We B-NP
 do B-VP
 n't I-VP
@@ -10100,6 +10515,7 @@ second I-NP
 rejection I-NP
 . O
 '' O
+
 Ex-Im None
 Bank I-NP
 officials I-NP
@@ -10112,6 +10528,7 @@ is I-INTJ
 under B-PP
 way I-NP
 . O
+
 The B-NP
 unit I-NP
 stabilized I-VP
@@ -10145,6 +10562,7 @@ unit I-NP
 's B-NP
 tumble I-VP
 . O
+
 `` O
 We B-NP
 expect B-VP
@@ -10174,6 +10592,7 @@ Jones I-NP
 & I-NP
 Ryan None
 . O
+
 Mr. B-NP
 McKinney I-NP
 will B-VP
@@ -10213,6 +10632,7 @@ in B-PP
 day-to-day B-ADVP
 management I-NP
 . O
+
 `` O
 I B-NP
 'm B-VP
@@ -10231,6 +10651,7 @@ says B-VP
 Mr. B-NP
 Anderson I-NP
 . O
+
 In B-PP
 late I-ADVP
 trading I-NP
@@ -10253,6 +10674,7 @@ at B-PP
 98 B-NP
 bid I-ADJP
 . O
+
 Ford B-NP
 trucks I-NP
 may B-VP
@@ -10282,6 +10704,7 @@ General B-NP
 Motors I-NP
 Corp I-NP
 . O
+
 Another B-NP
 Fox B-NP
 official I-NP
@@ -10306,6 +10729,7 @@ into B-PP
 prime-time B-NP
 programming I-NP
 . O
+
 Ms. B-NP
 Tilly None
 of I-PP
@@ -10335,6 +10759,7 @@ Street I-NP
 Blues None
 . O
 '' O
+
 People B-NP
 often I-ADVP
 cite B-VP
@@ -10351,6 +10776,7 @@ to B-PP
 the B-NP
 IRS I-NP
 . O
+
 In B-PP
 addition B-NP
 , O
@@ -10367,6 +10793,7 @@ provide I-VP
 specialized None
 assistance I-NP
 . O
+
 Stock-market B-NP
 tremors I-NP
 again B-ADVP
@@ -10383,6 +10810,7 @@ a B-LST
 mixed B-ADJP
 performance I-NP
 . O
+
 Mr. B-NP
 Bush I-NP
 had B-VP
@@ -10391,6 +10819,7 @@ a B-LST
 veto I-VP
 previously B-ADVP
 . O
+
 Democratic I-NP
 counterpart I-NP
 Mitchell I-NP
@@ -10427,6 +10856,7 @@ interpret I-VP
 them B-NP
 . O
 '' O
+
 The B-NP
 transaction I-NP
 would B-VP
@@ -10438,6 +10868,7 @@ P&G B-NP
 into B-PP
 cosmetics I-NP
 . O
+
 Sweden B-NP
 's B-NP
 National I-NP
@@ -10457,6 +10888,7 @@ to B-PP
 unidentified None
 Indians I-NP
 . O
+
 One B-NP
 of I-PP
 the B-NP
@@ -10473,6 +10905,7 @@ production I-NP
 of I-PP
 it B-NP
 . O
+
 It B-NP
 adds B-VP
 that B-SBAR
@@ -10508,6 +10941,7 @@ success I-NP
 is I-INTJ
 unlikely B-ADJP
 . O
+
 A B-NP
 few I-NP
 months I-NP
@@ -10531,8 +10965,10 @@ on B-PRT
 a B-LST
 shoestring None
 . O
+
 Stocks B-NP
 : O
+
 Mr. B-NP
 Regalia I-NP
 said B-VP
@@ -10559,6 +10995,7 @@ will B-VP
 increase I-VP
 again B-ADVP
 . O
+
 `` O
 Such B-NP
 bonds I-NP
@@ -10577,6 +11014,7 @@ a B-LST
 disaster I-NP
 . O
 '' O
+
 In B-PP
 Honduras B-NP
 , O
@@ -10617,6 +11055,7 @@ upon B-PP
 with B-PP
 Washington B-NP
 . O
+
 `` O
 I B-NP
 'm B-VP
@@ -10637,6 +11076,7 @@ chairman B-NP
 asserted B-VP
 yesterday B-NP
 . O
+
 `` O
 When B-ADVP
 stocks I-NP
@@ -10648,6 +11088,7 @@ a B-LST
 disappointment B-NP
 . O
 '' O
+
 In B-PP
 a B-LST
 statement I-NP
@@ -10682,6 +11123,7 @@ that B-SBAR
 contract I-NP
 . O
 '' O
+
 But O
 traders B-NP
 on B-PRT
@@ -10712,6 +11154,7 @@ active B-ADJP
 both B-NP
 days I-NP
 . O
+
 But O
 this B-NP
 is I-INTJ
@@ -10725,6 +11168,7 @@ financing I-NP
 were B-VP
 found B-VP
 . O
+
 David B-NP
 Batchelder I-NP
 , O
@@ -10780,6 +11224,7 @@ acquisition I-NP
 financing I-NP
 . O
 '' O
+
 According B-PP
 to B-PP
 Gen. B-NP
@@ -10804,6 +11249,7 @@ from B-PP
 the B-NP
 company I-NP
 . O
+
 In B-PP
 the B-NP
 first B-ADVP
@@ -10852,6 +11298,7 @@ a B-LST
 year I-NP
 earlier B-ADVP
 . O
+
 They B-NP
 also I-CONJP
 said B-VP
@@ -10875,6 +11322,7 @@ of I-PP
 imported I-VP
 goods I-NP
 . O
+
 The B-NP
 time I-NP
 is I-INTJ
@@ -10895,6 +11343,7 @@ to B-PP
 identify I-VP
 themselves B-NP
 . O
+
 CHRISTMAS None
 SHOPPERS None
 find I-VP
@@ -10906,6 +11355,7 @@ some B-NP
 catalog I-NP
 companies I-NP
 . O
+
 The B-NP
 10 I-ADVP
 7\/8 I-NP
@@ -10945,6 +11395,7 @@ the B-NP
 company I-NP
 said B-VP
 . O
+
 The B-NP
 notice B-NP
 also I-CONJP
@@ -10955,6 +11406,7 @@ certain I-ADJP
 estate-tax None
 returns I-NP
 . O
+
 a B-LST
 - O
 Average I-NP
@@ -10980,6 +11432,7 @@ Bank I-NP
 Rate B-NP
 Monitor None
 . O
+
 Jeff B-NP
 Bridges I-NP
 is I-INTJ
@@ -11022,6 +11475,7 @@ the B-NP
 fire I-NP
 escape I-VP
 . O
+
 From B-PP
 the B-NP
 history I-NP
@@ -11065,6 +11519,7 @@ the B-NP
 other B-NP
 way I-NP
 . O
+
 Keeping None
 the B-NP
 listed B-VP
@@ -11077,6 +11532,7 @@ primarily B-ADVP
 a B-LST
 convenience None
 . O
+
 For B-PP
 the B-NP
 nine I-NP
@@ -11116,6 +11572,7 @@ the B-NP
 1988 B-NP
 period I-NP
 . O
+
 Speculation None
 that B-SBAR
 the B-NP
@@ -11140,6 +11597,7 @@ stocks I-NP
 traders B-NP
 said B-VP
 . O
+
 The B-NP
 new I-NP
 institution I-NP
@@ -11160,6 +11618,7 @@ will B-VP
 reopen I-VP
 today I-ADVP
 . O
+
 `` O
 But O
 if I-SBAR
@@ -11175,6 +11634,7 @@ a B-LST
 chance I-NP
 . O
 '' O
+
 They B-NP
 thus B-ADVP
 have I-VP
@@ -11200,6 +11660,7 @@ Gillette B-NP
 and I-UCP
 Kodak B-NP
 . O
+
 That B-NP
 's B-NP
 usually B-ADVP
@@ -11213,6 +11674,7 @@ temblors None
 to B-PP
 pass I-VP
 . O
+
 During B-PP
 the B-NP
 15-month None
@@ -11242,6 +11704,7 @@ had B-VP
 an B-NP
 emergency B-NP
 . O
+
 In B-PP
 Brussels I-NP
 , O
@@ -11260,8 +11723,10 @@ paintings I-NP
 and I-UCP
 jewels None
 . O
+
 Mortgage-Backed B-NP
 Securities I-NP
+
 As B-SBAR
 a B-LST
 result I-VP
@@ -11329,6 +11794,7 @@ the B-NP
 first B-ADVP
 place I-VP
 . O
+
 Coca-Cola B-NP
 Enterprises I-NP
 , O
@@ -11355,6 +11821,7 @@ the B-NP
 third I-NP
 quarter I-NP
 . O
+
 Mr. B-NP
 Nogales I-NP
 , O
@@ -11382,6 +11849,7 @@ membership B-NP
 to B-PP
 nine I-NP
 . O
+
 The B-NP
 White B-ADJP
 House I-NP
@@ -11413,6 +11881,7 @@ flexibility B-NP
 last I-ADVP
 week I-NP
 . O
+
 Sunshine None
 Biscuits None
 Inc. I-NP
@@ -11436,6 +11905,7 @@ LaRosa None
 New B-NP
 York I-NP
 . O
+
 Howard B-NP
 Bailit None
 , O
@@ -11477,6 +11947,7 @@ outside B-PP
 of I-PP
 hospitals B-NP
 . O
+
 He B-NP
 recalled B-VP
 to B-PP
@@ -11515,6 +11986,7 @@ same I-NP
 for B-PP
 animals B-NP
 . O
+
 Mr. B-NP
 Fischer I-NP
 plows None
@@ -11535,6 +12007,7 @@ his B-NP
 own I-NP
 sheep None
 . O
+
 President B-NP
 Bush I-NP
 told I-VP
@@ -11561,6 +12034,7 @@ n't I-VP
 think B-VP
 so B-ADJP
 . O
+
 `` O
 People B-NP
 these B-NP
@@ -11595,6 +12069,7 @@ Chamber I-NP
 of I-PP
 Commerce I-NP
 . O
+
 After B-SBAR
 San B-NP
 Francisco I-NP
@@ -11625,6 +12100,7 @@ inspectors B-NP
 to B-PP
 help I-VP
 . O
+
 At B-PP
 the B-NP
 moment I-NP
@@ -11649,6 +12125,7 @@ about B-PP
 15 I-NP
 % I-ADJP
 . O
+
 `` O
 The B-NP
 results I-NP
@@ -11659,6 +12136,7 @@ fascinating None
 he B-NP
 said B-VP
 . O
+
 The B-NP
 official I-NP
 poverty I-NP
@@ -11673,6 +12151,7 @@ Management I-NP
 and I-UCP
 Budget I-NP
 . O
+
 Results B-NP
 were B-VP
 also I-CONJP
@@ -11696,6 +12175,7 @@ business I-NP
 he B-NP
 said B-VP
 . O
+
 Over B-PP
 the B-NP
 next B-ADVP
@@ -11711,6 +12191,7 @@ for B-PP
 the B-NP
 program I-NP
 . O
+
 Otherwise B-ADVP
 , O
 actual B-NP
@@ -11722,6 +12203,7 @@ the B-NP
 300-day I-NP
 estimate I-NP
 . O
+
 They B-NP
 say B-INTJ
 the B-NP
@@ -11733,6 +12215,7 @@ for B-PP
 lunch B-NP
 frequently B-ADVP
 . O
+
 The B-NP
 spirits I-UCP
 business I-NP
@@ -11757,6 +12240,7 @@ global I-NP
 players I-NP
 . O
 '' O
+
 Sen. B-NP
 John B-NP
 Kerry I-NP
@@ -11766,6 +12250,7 @@ D. B-NP
 Mass B-NP
 . O
 -RRB- O
+
 My B-NP
 revolutionary I-NP
 system I-NP
@@ -11785,16 +12270,19 @@ their B-NP
 currency I-NP
 cushion I-NP
 . O
+
 Others B-NP
 prefer I-VP
 deep-discount None
 zero-coupon I-NP
 bonds I-NP
 . O
+
 -- O
 Pat None
 D'Amico None
 . O
+
 The B-NP
 federal I-NP
 government I-NP
@@ -11829,8 +12317,10 @@ Hudson B-NP
 Institute I-NP
 recommended B-VP
 . O
+
 White B-ADJP
 Males I-NP
+
 Deductions None
 of I-PP
 charitable B-NP
@@ -11846,6 +12336,7 @@ accompanied None
 by B-PP
 appraisals None
 . O
+
 B.A.T B-NP
 Industries I-NP
 , O
@@ -11861,6 +12352,7 @@ to B-PP
 12 I-NP
 3\/8 I-NP
 . O
+
 `` O
 There B-NP
 's B-NP
@@ -11881,6 +12373,7 @@ Lynch I-NP
 Capital I-NP
 Markets I-NP
 . O
+
 For B-PP
 the B-NP
 first B-ADVP
@@ -11900,6 +12393,7 @@ lost B-VP
 3.3 I-NP
 % I-ADJP
 . O
+
 The B-NP
 bank I-NP
 holding I-NP
@@ -11919,6 +12413,7 @@ maturity B-NP
 next B-ADVP
 Tuesday B-NP
 . O
+
 The B-NP
 U.S. I-NP
 Commerce I-NP
@@ -11943,6 +12438,7 @@ $ B-NP
 8.24 I-NP
 billion I-NP
 . O
+
 For B-PP
 instance B-NP
 , O
@@ -11957,6 +12453,7 @@ to B-PP
 $ B-NP
 20.42 I-NP
 . O
+
 That B-NP
 growth I-NP
 is I-INTJ
@@ -11986,6 +12483,7 @@ past I-NP
 five B-NP
 years I-NP
 . O
+
 The B-NP
 week I-NP
 's B-NP
@@ -12001,6 +12499,7 @@ a B-LST
 year I-NP
 earlier B-ADVP
 . O
+
 The B-NP
 average B-ADJP
 maturity B-NP
@@ -12021,6 +12520,7 @@ third I-NP
 consecutive I-NP
 week I-NP
 . O
+
 Investors B-NP
 celebrated None
 the B-NP
@@ -12039,6 +12539,7 @@ stocks I-NP
 and I-UCP
 bonds I-NP
 . O
+
 Returns None
 for B-PP
 1988 B-NP
@@ -12082,6 +12583,7 @@ by B-PP
 Jan. B-NP
 16 B-NP
 . O
+
 Over B-PP
 the B-NP
 long I-ADVP
@@ -12121,8 +12623,10 @@ the B-NP
 stock I-NP
 price I-NP
 . O
+
 The B-NP
 Editor I-NP
+
 Wearing None
 a B-LST
 business I-NP
@@ -12163,6 +12667,7 @@ bank I-NP
 's B-NP
 president I-NP
 . O
+
 Sterling B-NP
 was B-VP
 already B-ADVP
@@ -12181,6 +12686,7 @@ Lawson I-NP
 promise I-VP
 Friday B-NP
 . O
+
 But O
 major I-NP
 packaged-goods I-NP
@@ -12205,6 +12711,7 @@ eluded B-VP
 the B-NP
 agency I-NP
 . O
+
 `` O
 They B-NP
 're B-VP
@@ -12222,6 +12729,7 @@ Mr. B-NP
 Thompson I-NP
 said B-VP
 . O
+
 It B-NP
 instructs None
 a B-LST
@@ -12239,6 +12747,7 @@ price I-NP
 or I-PP
 better I-ADVP
 . O
+
 The B-NP
 journalistic None
 consensus I-NP
@@ -12253,6 +12762,7 @@ Series I-NP
 seem B-VP
 unimportant None
 . O
+
 By B-PP
 the B-NP
 time I-NP
@@ -12275,6 +12785,7 @@ even B-ADVP
 one B-NP
 child I-NP
 . O
+
 In B-PP
 the B-NP
 nine I-NP
@@ -12306,6 +12817,7 @@ $ B-NP
 a B-LST
 share I-NP
 . O
+
 Spooked None
 investors B-NP
 , O
@@ -12326,6 +12838,7 @@ their B-NP
 Jaguar B-NP
 shares I-NP
 . O
+
 The B-NP
 Nikkei I-NP
 continued B-VP
@@ -12352,6 +12865,7 @@ Monday B-NP
 's B-NP
 losses I-NP
 . O
+
 But O
 he B-NP
 says B-VP
@@ -12375,6 +12889,7 @@ for B-PP
 banning B-VP
 cars I-NP
 . O
+
 `` O
 Even B-SBAR
 though I-SBAR
@@ -12404,6 +12919,7 @@ the B-NP
 report I-VP
 says B-VP
 . O
+
 These B-NP
 guarantee I-VP
 protection I-NP
@@ -12418,6 +12934,7 @@ along B-PRT
 most B-ADJP
 gains I-NP
 . O
+
 The B-NP
 benchmark I-NP
 30-year B-NP
@@ -12444,6 +12961,7 @@ yield I-VP
 % I-ADJP
 Tuesday B-NP
 . O
+
 In B-PP
 a B-LST
 typical I-NP
@@ -12467,12 +12985,14 @@ of I-PP
 unfair I-ADJP
 treatment I-NP
 . O
+
 But O
 they B-NP
 are B-VP
 stalwart I-NP
 socialists None
 . O
+
 The B-NP
 West I-NP
 German I-NP
@@ -12492,6 +13012,7 @@ its B-NP
 business I-NP
 activities I-NP
 . O
+
 They B-NP
 have I-VP
 offered I-VP
@@ -12512,6 +13033,7 @@ buy I-VP
 vacation B-NP
 time-shares None
 . O
+
 Mr. B-NP
 Maynard I-NP
 , O
@@ -12539,6 +13061,7 @@ battle I-NP
 was B-VP
 joined B-VP
 . O
+
 The B-NP
 most B-ADJP
 remarkable B-ADJP
@@ -12577,6 +13100,7 @@ Mr. B-NP
 Mehta I-NP
 said B-VP
 . O
+
 Sometimes B-ADVP
 , O
 they B-NP
@@ -12594,6 +13118,7 @@ will B-VP
 be I-VP
 Prego None
 . O
+
 The B-NP
 purchase I-VP
 comes B-VP
@@ -12626,6 +13151,7 @@ other B-NP
 cable I-NP
 operators I-NP
 . O
+
 Net B-NP
 was B-VP
 up B-PRT
@@ -12645,6 +13171,7 @@ share I-NP
 last I-ADVP
 year I-NP
 . O
+
 He B-NP
 gave B-VP
 10-to-1 None
@@ -12676,6 +13203,7 @@ pending B-ADJP
 deficit-reduction I-NP
 bill I-NP
 . O
+
 The B-NP
 single B-ADJP
 most B-ADJP
@@ -12702,6 +13230,7 @@ of I-PP
 their B-NP
 neighborhoods B-NP
 . O
+
 Investor I-NP
 Asher None
 Edelman I-NP
@@ -12720,6 +13249,7 @@ for B-PP
 additional I-NP
 purchases I-NP
 . O
+
 Last B-NP
 year I-NP
 , O
@@ -12747,6 +13277,7 @@ country I-NP
 's B-NP
 output I-NP
 . O
+
 At B-PP
 the B-NP
 same I-NP
@@ -12784,6 +13315,7 @@ on B-PRT
 Saturday B-NP
 mornings I-NP
 . O
+
 The B-NP
 buy-back I-NP
 represents B-VP
@@ -12808,6 +13340,7 @@ of I-PP
 Sept. B-NP
 30 I-NP
 . O
+
 Take B-VP
 the B-NP
 `` O
@@ -12830,6 +13363,7 @@ a B-LST
 bond-insurance None
 company I-NP
 . O
+
 What B-NP
 it B-NP
 does B-VP
@@ -12849,6 +13383,7 @@ fund-raising I-NP
 letter I-NP
 itself B-NP
 . O
+
 IBM B-NP
 has B-VP
 a B-LST
@@ -12866,6 +13401,7 @@ of I-PP
 the B-NP
 market I-NP
 . O
+
 Gargantuan None
 sections B-NP
 of I-PP
@@ -12881,6 +13417,7 @@ plastic I-NP
 building I-NP
 blocks I-NP
 . O
+
 Last B-NP
 week I-NP
 , O
@@ -12898,6 +13435,7 @@ Banking I-NP
 Committee I-NP
 members I-NP
 . O
+
 The B-NP
 plan I-NP
 thus B-ADVP
@@ -12925,6 +13463,7 @@ based B-VP
 on B-PRT
 race I-NP
 . O
+
 The B-NP
 notes B-VP
 are B-VP
@@ -12937,6 +13476,7 @@ Investors B-NP
 Service I-NP
 Inc I-NP
 . O
+
 `` O
 But O
 it B-NP
@@ -12949,6 +13489,7 @@ in B-PP
 the B-NP
 pants None
 . O
+
 I B-NP
 rode B-VP
 it B-NP
@@ -12967,6 +13508,7 @@ Telegraph I-NP
 in B-PP
 Oakland B-NP
 . O
+
 PUTS None
 AND I-NP
 CALLS None
@@ -13010,6 +13552,7 @@ for B-PP
 pure B-NP
 speculation B-NP
 . O
+
 The B-NP
 company I-NP
 dispatched I-VP
@@ -13038,6 +13581,7 @@ done I-VP
 by B-PP
 computer I-NP
 . O
+
 However B-ADVP
 , O
 he B-NP
@@ -13061,6 +13605,7 @@ without B-PP
 full B-ADJP
 information I-NP
 . O
+
 He B-NP
 argued B-VP
 that B-SBAR
@@ -13075,6 +13620,7 @@ decelerated None
 since B-SBAR
 spring I-NP
 . O
+
 `` O
 Demand B-NP
 has B-VP
@@ -13125,6 +13671,7 @@ Du None
 Pont None
 Co I-NP
 . O
+
 In B-PP
 reaffirming None
 the B-NP
@@ -13155,6 +13702,7 @@ managing I-NP
 the B-NP
 economy I-NP
 . O
+
 After B-SBAR
 last I-ADVP
 Friday B-NP
@@ -13178,6 +13726,7 @@ and I-UCP
 sell I-VP
 stocks I-NP
 . O
+
 As B-SBAR
 that B-SBAR
 system I-NP
@@ -13189,6 +13738,7 @@ may B-VP
 be I-VP
 needed B-VP
 . O
+
 Other B-NP
 scientists I-NP
 said B-VP
@@ -13208,10 +13758,12 @@ at B-PP
 a B-LST
 time I-NP
 . O
+
 Guaranteed B-VP
 by B-PP
 India B-NP
 . O
+
 The B-NP
 Senate I-NP
 had B-VP
@@ -13258,6 +13810,7 @@ to B-PP
 political I-NP
 parties I-NP
 . O
+
 The B-NP
 Packwood I-NP
 plan I-NP
@@ -13291,6 +13844,7 @@ than I-CONJP
 one B-NP
 year I-NP
 . O
+
 Wang B-NP
 had B-VP
 previously B-ADVP
@@ -13298,15 +13852,18 @@ forecast B-VP
 a B-LST
 loss I-NP
 . O
+
 3:25 None
 a.m I-NP
 . O
+
 The B-NP
 Pentagon I-NP
 foiled None
 the B-NP
 plan I-NP
 . O
+
 BAKER None
 FALTERS None
 in B-PP
@@ -13319,6 +13876,7 @@ and I-UCP
 Palestinian I-NP
 politics I-NP
 . O
+
 The B-NP
 National I-NP
 Restaurant None
@@ -13349,6 +13907,7 @@ figures I-NP
 are B-VP
 available B-ADJP
 . O
+
 In B-PP
 addition B-NP
 to B-PP
@@ -13383,6 +13942,7 @@ two-year I-NP
 Treasury I-NP
 notes B-VP
 . O
+
 The B-NP
 Soviets I-NP
 ' B-NP
@@ -13398,6 +13958,7 @@ got B-VP
 the B-NP
 contract I-NP
 . O
+
 The B-NP
 price I-NP
 level I-NP
@@ -13419,6 +13980,7 @@ was B-VP
 years I-NP
 ago B-ADVP
 . O
+
 Hans None
 Stoll None
 , O
@@ -13454,6 +14016,7 @@ futures I-NP
 were B-VP
 introduced I-VP
 . O
+
 Mr. B-NP
 Byrum I-NP
 and I-UCP
@@ -13466,6 +14029,7 @@ reached I-VP
 for B-PP
 comment I-VP
 . O
+
 Monday B-NP
 and I-UCP
 Tuesday B-NP
@@ -13479,6 +14043,7 @@ comparison B-NP
 he B-NP
 said B-VP
 . O
+
 Sales B-NP
 rose B-VP
 14 B-ADJP
@@ -13492,6 +14057,7 @@ $ B-NP
 625.4 I-NP
 million I-NP
 . O
+
 GE B-NP
 Capital I-NP
 has B-VP
@@ -13502,6 +14068,7 @@ with B-PP
 L.J. B-NP
 Hooker I-NP
 . O
+
 Of B-PP
 1,500 B-NP
 people B-NP
@@ -13512,6 +14079,7 @@ questionnaire I-NP
 951 None
 replied None
 . O
+
 The B-NP
 IRS I-NP
 hopes B-VP
@@ -13522,6 +14090,7 @@ new I-NP
 positions I-NP
 soon I-ADVP
 . O
+
 Calls None
 to B-PP
 Shelly None
@@ -13536,6 +14105,7 @@ were B-VP
 n't I-VP
 returned I-VP
 . O
+
 On B-PP
 the B-NP
 other B-NP
@@ -13553,6 +14123,7 @@ sizable I-NP
 third-quarter B-NP
 loss I-NP
 . O
+
 Alusuisse B-NP
 of I-PP
 America I-NP
@@ -13580,6 +14151,7 @@ in B-PP
 the B-NP
 U.S. I-NP
 . O
+
 Not B-CONJP
 mentioned I-VP
 were B-VP
@@ -13640,6 +14212,7 @@ the B-NP
 human I-NP
 suffering I-VP
 . O
+
 But O
 supporters I-NP
 argue I-VP
@@ -13658,6 +14231,7 @@ hesitate B-VP
 doing I-VP
 it B-NP
 . O
+
 When B-ADVP
 the B-NP
 Soviets I-NP
@@ -13687,6 +14261,7 @@ chorus None
 of I-PP
 euphoria I-NP
 . O
+
 Some B-NP
 companies I-NP
 are B-VP
@@ -13696,6 +14271,7 @@ they B-NP
 're B-VP
 prepared B-ADJP
 . O
+
 But O
 programs I-NP
 in B-PP
@@ -13712,6 +14288,7 @@ with B-PP
 that B-SBAR
 system I-NP
 . O
+
 In B-PP
 New B-NP
 York I-NP
@@ -13732,6 +14309,7 @@ down B-PRT
 .50 None
 cents I-NP
 . O
+
 In B-PP
 late I-ADVP
 April B-NP
@@ -13763,6 +14341,7 @@ higher I-ADJP
 than I-CONJP
 banks I-NP
 . O
+
 The B-NP
 IRS I-NP
 also I-CONJP
@@ -13787,6 +14366,7 @@ within B-PP
 the B-NP
 agency I-NP
 . O
+
 `` O
 The B-NP
 Japanese B-NP
@@ -13800,6 +14380,7 @@ said B-VP
 Mr. B-NP
 Veronis B-NP
 . O
+
 The B-NP
 flamboyant None
 and I-UCP
@@ -13831,6 +14412,7 @@ interstate B-NP
 approaching B-VP
 it B-NP
 . O
+
 Banc B-NP
 One B-NP
 said B-VP
@@ -13863,6 +14445,7 @@ McKinney I-NP
 's B-NP
 retirement I-NP
 . O
+
 Mr. B-NP
 Dorfman I-NP
 covers B-VP
@@ -13878,6 +14461,7 @@ New B-NP
 York I-NP
 bureau I-NP
 . O
+
 Mr. B-NP
 Ehrlich I-NP
 predicted B-VP
@@ -13886,6 +14470,7 @@ famine B-NP
 by B-PP
 1980 B-NP
 . O
+
 The B-NP
 chairman B-NP
 promised I-VP
@@ -13897,6 +14482,7 @@ within B-PP
 two B-NP
 weeks I-NP
 . O
+
 But O
 six B-NP
 years I-NP
@@ -13910,6 +14496,7 @@ the B-NP
 Far None
 East B-NP
 . O
+
 The B-NP
 $ B-NP
 11,775,000 None
@@ -13933,6 +14520,7 @@ being I-VP
 formally B-ADVP
 reoffered I-VP
 . O
+
 Analysts B-NP
 predict I-VP
 the B-NP
@@ -13941,6 +14529,7 @@ impact I-NP
 will B-VP
 linger None
 . O
+
 The B-NP
 problems I-NP
 of I-PP
@@ -13985,6 +14574,7 @@ than I-CONJP
 10 I-ADVP
 years I-NP
 . O
+
 Even B-SBAR
 if I-SBAR
 it B-NP
@@ -14001,6 +14591,7 @@ to B-PP
 be I-VP
 temporary B-ADJP
 . O
+
 Now B-INTJ
 , O
 neither B-ADVP
@@ -14017,6 +14608,7 @@ an B-NP
 easy B-ADJP
 out B-PRT
 . O
+
 Without B-PP
 any B-NP
 admission B-NP
@@ -14043,6 +14635,7 @@ and I-UCP
 misled None
 investors B-NP
 . O
+
 One B-NP
 price-depressing None
 development I-NP
@@ -14066,6 +14659,7 @@ an B-NP
 analyst I-NP
 said B-VP
 . O
+
 Mr. B-NP
 Goldberg I-NP
 says B-VP
@@ -14087,6 +14681,7 @@ $ B-NP
 4 B-LST
 billion I-NP
 . O
+
 However B-ADVP
 , O
 Mr. B-NP
@@ -14103,6 +14698,7 @@ an B-NP
 investment I-NP
 . O
 '' O
+
 In B-PP
 New B-NP
 York I-NP
@@ -14121,6 +14717,7 @@ share I-NP
 , O
 unchanged B-ADJP
 . O
+
 The B-NP
 representative I-NP
 responded I-VP
@@ -14161,6 +14758,7 @@ Sandinista I-NP
 arsenal I-NP
 . O
 '' O
+
 Curtin None
 Windsor I-NP
 , O
@@ -14202,6 +14800,7 @@ the B-NP
 Aswara None
 Peninsula None
 . O
+
 AFTERSHOCKS None
 RATTLED None
 Northern B-NP
@@ -14211,6 +14810,7 @@ an B-NP
 earthquake I-NP
 cleanup I-NP
 . O
+
 For B-PP
 example B-NP
 , O
@@ -14230,6 +14830,7 @@ within B-PP
 12 I-NP
 months I-NP
 . O
+
 Higher B-NP
 sales I-NP
 of I-PP
@@ -14263,6 +14864,7 @@ sales I-NP
 Lilly B-NP
 said B-VP
 . O
+
 In B-PP
 a B-LST
 statement I-NP
@@ -14292,6 +14894,7 @@ $ B-NP
 13.6 B-NP
 million I-NP
 . O
+
 An B-NP
 estimated B-VP
 $ B-NP
@@ -14327,6 +14930,7 @@ members I-NP
 are B-VP
 confirmed I-VP
 . O
+
 Monthly None
 sales I-NP
 of I-PP
@@ -14363,6 +14967,7 @@ the B-NP
 46-year-old None
 businessman I-NP
 . O
+
 It B-NP
 's B-NP
 time I-NP
@@ -14380,6 +14985,7 @@ gentlemen None
 's B-NP
 rules I-NP
 . O
+
 But O
 the B-NP
 Tax I-NP
@@ -14396,6 +15002,7 @@ allowed I-VP
 the B-NP
 deductions I-NP
 . O
+
 Then B-ADVP
 as B-CONJP
 things I-NP
@@ -14435,6 +15042,7 @@ an B-NP
 eerie I-ADJP
 rhythm None
 . O
+
 Some B-NP
 of I-PP
 the B-NP
@@ -14448,6 +15056,7 @@ from B-PP
 Westmoreland B-NP
 mines I-NP
 . O
+
 Mr. B-NP
 Mark I-NP
 conceded B-VP
@@ -14471,6 +15080,7 @@ unit I-NP
 has B-VP
 lagged B-VP
 . O
+
 The B-NP
 illegal B-NP
 `` O
@@ -14497,6 +15107,7 @@ in B-PP
 the B-NP
 market I-NP
 . O
+
 The B-NP
 results I-NP
 roughly B-ADJP
@@ -14531,6 +15142,7 @@ continued B-VP
 cost-cutting B-NP
 efforts I-NP
 . O
+
 Likewise B-ADVP
 , O
 mutual B-NP
@@ -14551,6 +15163,7 @@ a B-LST
 serious I-ADJP
 investment I-NP
 . O
+
 The B-NP
 June B-NP
 increase I-VP
@@ -14568,6 +15181,7 @@ a B-LST
 year I-NP
 earlier B-ADVP
 . O
+
 `` O
 I B-NP
 thought B-VP
@@ -14587,6 +15201,7 @@ less B-ADJP
 he B-NP
 says B-VP
 . O
+
 Above B-PP
 all I-ADVP
 , O
@@ -14622,6 +15237,7 @@ may B-VP
 be I-VP
 receding None
 . O
+
 The B-NP
 Kraft B-NP
 General B-NP
@@ -14651,6 +15267,7 @@ the B-NP
 coffee I-NP
 business I-NP
 . O
+
 Now B-INTJ
 it B-NP
 is I-INTJ
@@ -14663,6 +15280,7 @@ refugees I-NP
 from B-PP
 Bulgaria B-NP
 . O
+
 Shareholder None
 approval I-NP
 sets B-VP
@@ -14686,6 +15304,7 @@ year I-NP
 second I-NP
 half I-ADVP
 . O
+
 In B-PP
 recent I-ADJP
 weeks I-NP
@@ -14726,11 +15345,13 @@ with B-PP
 the B-NP
 situation I-NP
 . O
+
 \*\* None
 As B-SBAR
 of I-PP
 August B-NP
 30 I-NP
+
 Many B-NP
 openings I-NP
 for B-PP
@@ -14760,6 +15381,7 @@ to B-PP
 close B-ADJP
 them B-NP
 . O
+
 However B-ADVP
 , O
 individuals B-NP
@@ -14794,6 +15416,7 @@ sale I-NP
 of I-PP
 assets I-NP
 . O
+
 `` O
 Coal I-NP
 prices I-NP
@@ -14812,6 +15435,7 @@ terms B-NP
 we B-NP
 think B-VP
 . O
+
 The B-NP
 plan I-NP
 would B-VP
@@ -14836,6 +15460,7 @@ for B-PP
 major I-NP
 parts I-NP
 . O
+
 There B-NP
 are B-VP
 , O
@@ -14856,6 +15481,7 @@ all I-ADVP
 of I-PP
 them B-NP
 . O
+
 In B-PP
 their B-NP
 anxiety I-NP
@@ -14873,6 +15499,7 @@ to B-PP
 new I-NP
 schemes I-NP
 . O
+
 On B-PP
 Monday B-NP
 , O
@@ -14915,6 +15542,7 @@ of I-PP
 fiscal B-NP
 1990 B-NP
 . O
+
 But O
 Capital I-NP
 Supervisors I-NP
@@ -14930,6 +15558,7 @@ earlier B-ADVP
 this B-NP
 year I-NP
 . O
+
 DILLARD None
 DEPARTMENT None
 STORES None
@@ -14950,6 +15579,7 @@ due B-ADJP
 at B-PP
 par B-NP
 . O
+
 An B-NP
 AT&T B-NP
 spokeswoman I-NP
@@ -14972,6 +15602,7 @@ with B-PP
 new I-NP
 employees I-NP
 . O
+
 Product I-NP
 delays I-NP
 , O
@@ -15009,6 +15640,7 @@ PCs None
 more B-ADJP
 aggressively B-ADVP
 . O
+
 In B-PP
 the B-NP
 four-part I-NP
@@ -15032,6 +15664,7 @@ to B-PP
 15.75 B-NP
 % I-ADJP
 . O
+
 We B-NP
 just I-CONJP
 want I-VP
@@ -15044,6 +15677,7 @@ of I-PP
 tea B-NP
 . O
 '' O
+
 The B-NP
 Swedish I-NP
 Academy I-NP
@@ -15061,6 +15695,7 @@ intensive I-NP
 prose I-NP
 . O
 '' O
+
 The B-NP
 headquarters I-NP
 is I-INTJ
@@ -15075,6 +15710,7 @@ Chase B-NP
 Manhattan B-NP
 Plaza I-NP
 . O
+
 Amgen B-NP
 Inc. I-NP
 said B-VP
@@ -15111,6 +15747,7 @@ for B-PP
 kidney B-NP
 patients B-NP
 . O
+
 Mr. B-NP
 Gaubert I-NP
 's B-NP
@@ -15147,6 +15784,7 @@ in B-PP
 the B-NP
 facts I-NP
 . O
+
 The B-NP
 transaction I-NP
 has B-VP
@@ -15182,6 +15820,7 @@ has B-VP
 taken I-VP
 place I-VP
 . O
+
 Mr. B-NP
 Cockburn None
 is I-INTJ
@@ -15194,6 +15833,7 @@ and I-UCP
 LA None
 Weekly I-NP
 . O
+
 Diamond-Star B-NP
 said B-VP
 it B-NP
@@ -15210,12 +15850,14 @@ year I-NP
 's B-NP
 end I-NP
 . O
+
 The B-NP
 amount I-NP
 was B-VP
 n't I-VP
 disclosed I-VP
 . O
+
 General B-NP
 Motors I-NP
 Corp. I-NP
@@ -15260,6 +15902,7 @@ in B-PP
 the B-NP
 U.S. I-NP
 . O
+
 He B-NP
 wants B-VP
 to B-PP
@@ -15286,6 +15929,7 @@ settled B-VP
 on B-PRT
 him B-NP
 . O
+
 Bond B-NP
 prices I-NP
 were B-VP
@@ -15295,6 +15939,7 @@ in B-PP
 sluggish B-ADJP
 activity I-NP
 . O
+
 It B-NP
 comes B-VP
 down B-PRT
@@ -15312,6 +15957,7 @@ time I-NP
 the B-NP
 market I-NP
 . O
+
 So B-ADVP
 go I-VP
 out B-PRT
@@ -15321,6 +15967,7 @@ eat B-VP
 that B-SBAR
 debt I-NP
 . O
+
 This B-NP
 legislative I-NP
 activity I-NP
@@ -15353,6 +16000,7 @@ autumn B-NP
 state I-NP
 elections I-NP
 . O
+
 Champion None
 International I-NP
 Corp. I-NP
@@ -15381,6 +16029,7 @@ and I-UCP
 other B-NP
 factors I-NP
 . O
+
 Interest B-NP
 rate-sensitive None
 shares I-NP
@@ -15407,6 +16056,7 @@ advance I-NP
 weaken I-VP
 yesterday B-NP
 . O
+
 Shearson B-NP
 is I-INTJ
 offering I-NP
@@ -15423,6 +16073,7 @@ yield I-VP
 6.15 None
 % I-ADJP
 . O
+
 Mr. B-NP
 Ferguson I-NP
 said B-VP
@@ -15453,6 +16104,7 @@ toll I-NP
 on B-PRT
 earnings I-NP
 . O
+
 Last B-NP
 summer I-NP
 , O
@@ -15471,6 +16123,7 @@ York I-NP
 Developments B-NP
 Ltd I-NP
 . O
+
 He B-NP
 added B-VP
 that B-SBAR
@@ -15523,6 +16176,7 @@ to B-PP
 other B-NP
 investors B-NP
 . O
+
 Yesterday B-NP
 's B-NP
 edition I-NP
@@ -15531,6 +16185,7 @@ the B-NP
 percentage I-ADVP
 increase I-VP
 . O
+
 Truckers None
 are B-VP
 `` O
@@ -15567,6 +16222,7 @@ at B-PP
 Salomon B-NP
 Bros I-NP
 . O
+
 In B-PP
 Frankfurt B-NP
 , O
@@ -15584,6 +16240,7 @@ declined B-VP
 to B-PP
 comment I-VP
 . O
+
 As B-SBAR
 thanks None
 , O
@@ -15595,6 +16252,7 @@ to B-PP
 break I-VP
 him B-NP
 . O
+
 The B-NP
 company I-NP
 said B-VP
@@ -15626,6 +16284,7 @@ in B-PP
 car I-NP
 loadings None
 . O
+
 In B-PP
 its B-NP
 ruling I-NP
@@ -15665,12 +16324,14 @@ condition I-NP
 is I-INTJ
 pointless None
 . O
+
 Not B-CONJP
 likely B-ADJP
 , O
 I B-NP
 think B-VP
 . O
+
 Costly None
 infertility None
 problems I-NP
@@ -15690,6 +16351,7 @@ children I-NP
 -- O
 now B-ADVP
 . O
+
 The B-NP
 program I-NP
 , O
@@ -15708,6 +16370,7 @@ Unix None
 operating I-VP
 system I-NP
 . O
+
 A B-NP
 series I-NP
 of I-PP
@@ -15725,6 +16388,7 @@ the B-NP
 Picop B-NP
 sale I-NP
 . O
+
 The B-NP
 buy-out I-NP
 fell B-VP
@@ -15742,6 +16406,7 @@ obtain I-VP
 bank I-NP
 financing I-NP
 . O
+
 Warner B-NP
 obviously I-ADVP
 does B-VP
@@ -15766,6 +16431,7 @@ off B-PRT
 to B-PP
 Columbia B-NP
 . O
+
 There B-NP
 is I-INTJ
 no I-INTJ
@@ -15818,6 +16484,7 @@ to B-PP
 450,000 None
 -RRB- O
 . O
+
 Cable B-NP
 & I-NP
 Wireless None
@@ -15829,6 +16496,7 @@ the B-NP
 other B-NP
 license I-NP
 . O
+
 Red I-NP
 tractors None
 gingerly None
@@ -15850,6 +16518,7 @@ slabs I-NP
 of I-PP
 concrete B-ADJP
 . O
+
 The B-NP
 Dow I-NP
 Jones I-NP
@@ -15869,6 +16538,7 @@ points I-NP
 in B-PP
 mid-afternoon B-NP
 . O
+
 On B-PP
 the B-NP
 prospect I-NP
@@ -15904,6 +16574,7 @@ to B-PP
 $ B-NP
 29.25 None
 . O
+
 The B-NP
 arms-kickback I-NP
 scandal I-NP
@@ -15934,6 +16605,7 @@ average B-ADJP
 Indian I-NP
 voters I-NP
 . O
+
 It B-NP
 was B-VP
 the B-NP
@@ -15950,6 +16622,7 @@ the B-NP
 analyst I-NP
 said B-VP
 . O
+
 The B-NP
 National I-NP
 Cancer I-NP
@@ -15974,6 +16647,7 @@ a B-LST
 decade I-NP
 apart B-ADVP
 . O
+
 That B-NP
 's B-NP
 the B-NP
@@ -16003,6 +16677,7 @@ battling None
 for B-PP
 it B-NP
 . O
+
 The B-NP
 usual B-ADJP
 problem I-NP
@@ -16028,6 +16703,7 @@ out B-PRT
 everyone B-NP
 else B-ADJP
 . O
+
 At B-PP
 the B-NP
 1988 B-NP
@@ -16055,6 +16731,7 @@ anti-abortion I-NP
 constitutional I-NP
 amendment I-NP
 . O
+
 The B-NP
 latest I-NP
 10-year I-NP
@@ -16082,6 +16759,7 @@ yield I-VP
 8.01 B-NP
 % I-ADJP
 . O
+
 B.A.T B-NP
 shares I-NP
 rose B-VP
@@ -16097,6 +16775,7 @@ stock I-NP
 exchange I-NP
 yesterday B-NP
 . O
+
 Medical I-NP
 costs I-NP
 continued B-VP
@@ -16116,6 +16795,7 @@ of I-PP
 % I-ADJP
 increases I-NP
 . O
+
 But O
 through B-PRT
 this B-NP
@@ -16137,6 +16817,7 @@ a B-LST
 model I-NP
 recruit None
 . O
+
 But O
 Dale I-NP
 Irvine B-NP
@@ -16158,6 +16839,7 @@ San B-NP
 Francisco I-NP
 areas I-NP
 . O
+
 Philip B-NP
 Morris I-NP
 disclosed I-VP
@@ -16193,6 +16875,7 @@ posted B-VP
 increased B-VP
 revenues I-NP
 . O
+
 Confronted None
 with B-PP
 the B-NP
@@ -16223,6 +16906,7 @@ months I-NP
 in B-PP
 prison B-NP
 . O
+
 Declining None
 issues I-NP
 outnumbered B-VP
@@ -16233,6 +16917,7 @@ with B-PP
 172 I-NP
 unchanged B-ADJP
 . O
+
 In B-PP
 the B-NP
 the B-NP
@@ -16281,6 +16966,7 @@ year I-NP
 's B-NP
 quarter I-NP
 . O
+
 That B-NP
 news I-NP
 , O
@@ -16317,6 +17003,7 @@ investment I-NP
 managers I-NP
 say B-INTJ
 . O
+
 The B-NP
 disclosures I-NP
 state I-NP
@@ -16335,6 +17022,7 @@ the B-NP
 arms B-NP
 company I-NP
 . O
+
 In B-PP
 addition B-NP
 , O
@@ -16353,6 +17041,7 @@ was B-VP
 n't I-VP
 offered I-VP
 . O
+
 Darla None
 St. B-NP
 Martin B-NP
@@ -16394,6 +17083,7 @@ gave B-VP
 Michael B-NP
 Dukakis I-NP
 . O
+
 Two B-NP
 Los B-NP
 Angeles I-NP
@@ -16428,6 +17118,7 @@ Red I-NP
 Cross I-NP
 said B-VP
 . O
+
 In B-PP
 any B-NP
 new I-NP
@@ -16450,6 +17141,7 @@ the B-NP
 original I-NP
 proposal I-NP
 . O
+
 Trucking None
 , O
 shipping I-VP
@@ -16480,6 +17172,7 @@ for B-PP
 freight B-NP
 transport I-VP
 . O
+
 Mr. B-NP
 Meador I-NP
 had B-VP
@@ -16490,6 +17183,7 @@ president I-NP
 of I-PP
 Balcor B-NP
 . O
+
 The B-NP
 first B-ADVP
 phase I-VP
@@ -16507,6 +17201,7 @@ phases None
 are B-VP
 continuing I-VP
 . O
+
 But O
 consumer I-NP
 expenditure I-NP
@@ -16525,6 +17220,7 @@ slowing I-VP
 that B-SBAR
 quickly I-ADVP
 . O
+
 They B-NP
 have I-VP
 laid None
@@ -16554,6 +17250,7 @@ eight B-NP
 other B-NP
 states I-NP
 . O
+
 Caldwell None
 Butler I-NP
 , O
@@ -16578,6 +17275,7 @@ answers None
 on B-PRT
 abortion B-NP
 . O
+
 And O
 returns I-NP
 on B-PRT
@@ -16600,6 +17298,7 @@ the B-NP
 long-term I-ADJP
 past I-NP
 . O
+
 By B-PP
 the B-NP
 end I-NP
@@ -16633,6 +17332,7 @@ of I-PP
 million I-NP
 contracts I-NP
 . O
+
 Those B-NP
 changes I-NP
 in B-PP
@@ -16652,6 +17352,7 @@ to B-PP
 be I-VP
 revamped I-NP
 . O
+
 Such B-NP
 an B-NP
 organization I-NP
@@ -16680,6 +17381,7 @@ broke B-VP
 the B-NP
 rules I-NP
 . O
+
 They B-NP
 can B-VP
 ignore I-VP
@@ -16716,6 +17418,7 @@ state I-NP
 or I-PP
 country I-NP
 . O
+
 PLASTIC None
 PENCILS None
 , O
@@ -16737,6 +17440,7 @@ stores I-NP
 in B-PP
 1973 B-NP
 . O
+
 White B-ADJP
 women I-NP
 serve I-VP
@@ -16753,6 +17457,7 @@ and I-UCP
 saucers None
 afterwards B-ADVP
 . O
+
 The B-NP
 company I-NP
 has B-VP
@@ -16785,6 +17490,7 @@ Mr. B-NP
 Mattausch I-NP
 said B-VP
 . O
+
 Money I-NP
 Market B-NP
 Deposits I-NP
@@ -16792,6 +17498,7 @@ Deposits I-NP
 a B-LST
 6.23 None
 % I-ADJP
+
 Falconbridge B-NP
 , O
 he B-NP
@@ -16805,6 +17512,7 @@ its B-NP
 current I-ADJP
 form I-VP
 . O
+
 Two B-NP
 reform-minded None
 party I-NP
@@ -16834,6 +17542,7 @@ were B-VP
 passed I-VP
 over B-PRT
 . O
+
 That B-NP
 brought B-VP
 in B-PP
@@ -16849,6 +17558,7 @@ close B-ADJP
 of I-PP
 trading I-NP
 . O
+
 We B-NP
 need B-VP
 them B-NP
@@ -16860,6 +17570,7 @@ for B-PP
 them B-NP
 . O
 '' O
+
 The B-NP
 two B-NP
 banks I-NP
@@ -16870,6 +17581,7 @@ a B-LST
 good I-ADJP
 fit I-VP
 . O
+
 I B-NP
 actually B-ADVP
 thought B-VP
@@ -16878,6 +17590,7 @@ I B-NP
 might B-VP
 die I-VP
 . O
+
 Instead B-ADVP
 of I-PP
 replicating None
@@ -16900,12 +17613,14 @@ in B-PP
 the B-NP
 portfolio I-NP
 . O
+
 Source B-NP
 : O
 Telerate B-NP
 Systems I-NP
 Inc I-NP
 . O
+
 An B-NP
 FM I-NP
 receiver I-NP
@@ -16920,6 +17635,7 @@ receives B-VP
 the B-NP
 information I-NP
 . O
+
 Thus B-ADVP
 we B-NP
 have I-VP
@@ -16932,6 +17648,7 @@ described B-VP
 as B-CONJP
 undemocratic B-ADJP
 . O
+
 These B-NP
 days I-NP
 , O
@@ -16958,6 +17675,7 @@ for B-PP
 his B-NP
 books I-NP
 . O
+
 This B-NP
 is I-INTJ
 the B-NP
@@ -16977,6 +17695,7 @@ people B-NP
 using B-VP
 . O
 '' O
+
 Computer-guided None
 buying I-VP
 then B-ADVP
@@ -16993,6 +17712,7 @@ in B-PP
 five B-NP
 minutes I-NP
 . O
+
 NewsEdge B-NP
 is I-INTJ
 pricey B-NP
@@ -17021,6 +17741,7 @@ wires I-NP
 is I-INTJ
 included B-VP
 . O
+
 `` O
 We B-NP
 have I-VP
@@ -17042,6 +17763,7 @@ shut I-VP
 down B-PRT
 . O
 '' O
+
 USX B-NP
 already B-ADVP
 has B-VP
@@ -17067,6 +17789,7 @@ for B-PP
 such B-PP
 production I-NP
 . O
+
 The B-NP
 large I-ADJP
 increase I-VP
@@ -17095,6 +17818,7 @@ in B-PP
 five B-NP
 years I-NP
 . O
+
 The B-NP
 companies I-NP
 are B-VP
@@ -17117,6 +17841,7 @@ earnings I-NP
 per B-PP
 share I-NP
 . O
+
 The B-NP
 year-ago I-NP
 quarter I-NP
@@ -17139,6 +17864,7 @@ winery None
 in B-PP
 Spain B-NP
 . O
+
 The B-NP
 University I-NP
 said B-VP
@@ -17175,6 +17901,7 @@ the B-NP
 vaccine I-NP
 maker I-NP
 . O
+
 Circulation None
 soared B-VP
 as B-CONJP
@@ -17194,6 +17921,7 @@ and I-UCP
 its B-NP
 ills None
 . O
+
 Experts B-NP
 say B-INTJ
 that B-SBAR
@@ -17209,6 +17937,7 @@ timing B-VP
 is I-INTJ
 crucial B-ADJP
 . O
+
 The B-NP
 company I-NP
 said B-VP
@@ -17230,6 +17959,7 @@ and I-UCP
 other B-NP
 products I-NP
 . O
+
 It B-NP
 implies B-VP
 very B-ADJP
@@ -17240,12 +17970,14 @@ growth I-NP
 he B-NP
 said B-VP
 . O
+
 COMPARE None
 P\/E None
 RATIOS None
 WITH None
 PROSPECTS None
 . O
+
 IRS I-NP
 Commissioner B-NP
 Fred B-NP
@@ -17285,6 +18017,7 @@ trillion I-NP
 a B-LST
 year I-NP
 . O
+
 The B-NP
 Bonanza I-NP
 franchise I-NP
@@ -17309,6 +18042,7 @@ partnership I-NP
 's B-NP
 assets I-NP
 . O
+
 Moreover B-ADVP
 , O
 one B-NP
@@ -17352,6 +18086,7 @@ the B-NP
 financing I-NP
 provision I-NP
 . O
+
 Dan I-NP
 Baldwin None
 , O
@@ -17393,6 +18128,7 @@ of I-PP
 the B-NP
 package I-NP
 . O
+
 Prices B-NP
 of I-PP
 pre-refunded None
@@ -17429,6 +18165,7 @@ many B-NP
 such B-PP
 issues I-NP
 . O
+
 Revenue B-NP
 rose B-VP
 to B-PP
@@ -17451,6 +18188,7 @@ robust B-ADJP
 non-regulated None
 businesses I-NP
 . O
+
 The B-NP
 proposal I-NP
 would B-VP
@@ -17471,6 +18209,7 @@ Reform I-NP
 '' O
 Act I-NP
 . O
+
 They B-NP
 're B-VP
 just I-CONJP
@@ -17478,6 +18217,7 @@ as B-CONJP
 confused I-VP
 . O
 '' O
+
 At B-PP
 the B-NP
 Federal I-NP
@@ -17503,6 +18243,7 @@ usual B-ADJP
 yesterday B-NP
 afternoon I-NP
 . O
+
 Most B-NP
 earn I-VP
 high I-ADJP
@@ -17511,6 +18252,7 @@ from B-PP
 credit I-NP
 agencies I-NP
 . O
+
 Currently B-ADVP
 , O
 its B-NP
@@ -17532,6 +18274,7 @@ a B-LST
 court-appointed B-NP
 liquidator None
 . O
+
 The B-NP
 new I-NP
 commissioner I-NP
@@ -17561,6 +18304,7 @@ more B-ADJP
 tax I-NP
 revenue I-NP
 . O
+
 The B-NP
 lightning None
 moves I-NP
@@ -17591,6 +18335,7 @@ shocking I-ADJP
 190.58-point I-NP
 plunge I-NP
 . O
+
 `` O
 Banks I-NP
 want I-VP
@@ -17607,6 +18352,7 @@ chairman B-NP
 of I-PP
 Banxquote B-NP
 . O
+
 Harry B-NP
 Manion I-NP
 , O
@@ -17638,6 +18384,7 @@ practices I-NP
 are B-VP
 incorrect I-NP
 . O
+
 Purchase B-NP
 of I-PP
 the B-NP
@@ -17669,6 +18416,7 @@ growing I-ADJP
 security I-NP
 industry I-NP
 . O
+
 But O
 many B-NP
 investors B-NP
@@ -17698,6 +18446,7 @@ finance I-VP
 corporate B-NP
 takeovers I-NP
 . O
+
 -LRB- O
 It B-NP
 matches None
@@ -17705,6 +18454,7 @@ her B-NP
 voice I-NP
 . O
 -RRB- O
+
 `` O
 We B-NP
 've B-VP
@@ -17732,6 +18482,7 @@ Mr. B-NP
 Mark I-NP
 said B-VP
 . O
+
 Final B-NP
 approval I-NP
 -- O
@@ -17771,6 +18522,7 @@ and I-UCP
 John B-NP
 Glenn B-NP
 . O
+
 `` O
 Three B-NP
 of I-PP
@@ -17807,6 +18559,7 @@ were B-VP
 yesterday B-NP
 . O
 '' O
+
 As B-SBAR
 you B-NP
 mentioned I-VP
@@ -17831,6 +18584,7 @@ Barrier None
 Resource I-NP
 System I-NP
 . O
+
 B.A.T B-NP
 is I-INTJ
 n't I-VP
@@ -17859,6 +18613,7 @@ said B-VP
 Mr. B-NP
 Prideaux I-NP
 . O
+
 The B-NP
 Commodore B-NP
 64 B-NP
@@ -17903,6 +18658,7 @@ much I-ADVP
 more B-ADJP
 memory I-NP
 . O
+
 He B-NP
 noted B-VP
 that B-SBAR
@@ -17926,6 +18682,7 @@ at B-PP
 0.2 B-NP
 % I-ADJP
 . O
+
 The B-NP
 state I-NP
 says B-VP
@@ -17955,6 +18712,7 @@ cash B-NP
 it B-NP
 needs B-VP
 . O
+
 The B-NP
 disagreement None
 centers I-NP
@@ -17973,6 +18731,7 @@ earlier B-ADVP
 this B-NP
 year I-NP
 . O
+
 Union I-NP
 Pacific I-NP
 Corp I-NP
@@ -17984,6 +18743,7 @@ fell B-VP
 17 I-NP
 % I-ADJP
 . O
+
 `` O
 That B-NP
 's B-NP
@@ -17993,6 +18753,7 @@ they B-NP
 after B-SBAR
 . O
 '' O
+
 NBC B-NP
 , O
 a B-LST
@@ -18028,12 +18789,14 @@ the B-NP
 cartoon None
 business I-NP
 . O
+
 Heating B-NP
 oil I-NP
 prices I-NP
 also I-CONJP
 rose B-VP
 . O
+
 Indeed B-INTJ
 , O
 one B-NP
@@ -18065,6 +18828,7 @@ a B-LST
 la I-NP
 Gorbachev I-NP
 . O
+
 FEDERAL B-NP
 HOME I-NP
 LOAN I-NP
@@ -18076,6 +18840,7 @@ Freddie B-NP
 Mac I-NP
 -RRB- O
 : O
+
 Mr. B-NP
 Goodfellow I-NP
 has B-VP
@@ -18099,6 +18864,7 @@ public B-ADJP
 electronic I-NP
 networks I-NP
 . O
+
 Exports None
 declined B-VP
 for B-PP
@@ -18116,6 +18882,7 @@ to B-PP
 a B-LST
 record I-NP
 . O
+
 His B-NP
 client I-NP
 , O
@@ -18145,6 +18912,7 @@ UAL B-NP
 buy-out I-NP
 group I-NP
 . O
+
 There B-NP
 , O
 Mr. B-NP
@@ -18185,6 +18953,7 @@ in B-PP
 Central B-NP
 America I-NP
 . O
+
 Refcorp B-NP
 was B-VP
 created B-VP
@@ -18195,6 +18964,7 @@ the B-NP
 thrift I-NP
 bailout I-NP
 . O
+
 `` O
 Politics None
 has B-VP
@@ -18233,6 +19003,7 @@ for B-PP
 the B-NP
 capital I-NP
 . O
+
 The B-NP
 crash I-NP
 in B-PP
@@ -18257,6 +19028,7 @@ wo B-VP
 n't I-VP
 do B-VP
 . O
+
 For B-PP
 most B-ADJP
 of I-PP
@@ -18272,6 +19044,7 @@ one B-NP
 of I-PP
 convenience None
 . O
+
 `` O
 It B-NP
 's B-NP
@@ -18288,6 +19061,7 @@ this B-NP
 time I-NP
 . O
 '' O
+
 `` O
 By B-PP
 their B-NP
@@ -18311,6 +19085,7 @@ Mr. B-NP
 Carder I-NP
 adds B-VP
 . O
+
 Dissident None
 playwright None
 Vaclav None
@@ -18328,6 +19103,7 @@ in B-PP
 recent I-ADJP
 days I-NP
 . O
+
 The B-NP
 state I-NP
 's B-NP
@@ -18373,6 +19149,7 @@ phonebook None
 Yellow B-NP
 Pages None
 . O
+
 First B-LST
 , O
 its B-NP
@@ -18383,6 +19160,7 @@ government I-NP
 is I-INTJ
 anomalous I-NP
 . O
+
 However B-ADVP
 , O
 HealthVest B-NP
@@ -18403,6 +19181,7 @@ $ B-NP
 million I-NP
 loan I-NP
 . O
+
 Cross I-NP
 & I-NP
 Trecker I-NP
@@ -18420,6 +19199,7 @@ company I-NP
 , O
 RobertsCorp None
 . O
+
 `` O
 It B-NP
 's B-NP
@@ -18445,6 +19225,7 @@ Olivetti B-NP
 spokesman I-NP
 said B-VP
 . O
+
 The B-NP
 1986 B-NP
 tax I-NP
@@ -18480,6 +19261,7 @@ over B-PRT
 Capitol B-NP
 Hill I-NP
 . O
+
 From B-PP
 Chevy B-NP
 trucks I-NP
@@ -18512,6 +19294,7 @@ and I-UCP
 castigating None
 outsiders B-NP
 . O
+
 In B-PP
 February B-NP
 1987 B-NP
@@ -18554,6 +19337,7 @@ above I-PP
 market I-NP
 price I-NP
 . O
+
 A B-NP
 couple I-NP
 in B-PP
@@ -18584,6 +19368,7 @@ from B-PP
 the B-NP
 group I-NP
 . O
+
 This B-NP
 time I-NP
 , O
@@ -18615,6 +19400,7 @@ was B-VP
 being I-VP
 tossed I-VP
 . O
+
 It B-NP
 makes B-VP
 sense I-NP
@@ -18624,6 +19410,7 @@ strategic I-NP
 standpoint I-NP
 . O
 '' O
+
 `` O
 But O
 by B-PP
@@ -18637,6 +19424,7 @@ been I-VP
 profitable I-ADJP
 . O
 '' O
+
 In B-PP
 the B-NP
 third I-NP
@@ -18666,6 +19454,7 @@ $ B-NP
 75.2 None
 million I-NP
 . O
+
 Harley-Davidson B-NP
 's B-NP
 complaint B-NP
@@ -18729,6 +19518,7 @@ of I-PP
 the B-NP
 law I-NP
 . O
+
 Economists B-NP
 had B-VP
 expected I-VP
@@ -18738,6 +19528,7 @@ $ B-NP
 billion I-NP
 gap I-NP
 . O
+
 The B-NP
 August B-NP
 gap I-NP
@@ -18751,6 +19542,7 @@ $ B-NP
 9.1 None
 billion I-NP
 . O
+
 The B-NP
 issues I-NP
 are B-VP
@@ -18779,6 +19571,7 @@ than I-CONJP
 its B-NP
 purpose I-NP
 . O
+
 That B-NP
 is I-INTJ
 a B-LST
@@ -18794,6 +19587,7 @@ loath None
 to B-PP
 lose I-VP
 . O
+
 In B-PP
 1986 B-NP
 , O
@@ -18819,6 +19613,7 @@ soon I-ADVP
 as B-CONJP
 possible B-ADJP
 . O
+
 The B-NP
 sale I-NP
 of I-PP
@@ -18847,8 +19642,10 @@ court I-NP
 USACafes B-NP
 said B-VP
 . O
+
 COPPER None
 : O
+
 Currency B-NP
 analysts B-NP
 predict I-VP
@@ -18886,6 +19683,7 @@ U.S. I-NP
 Federal I-NP
 Reserve I-NP
 . O
+
 Michael B-NP
 A. I-NP
 Gaskin I-NP
@@ -18913,6 +19711,7 @@ Walter I-NP
 K. I-NP
 Weisel None
 . O
+
 In B-PP
 terms B-NP
 of I-PP
@@ -18938,6 +19737,7 @@ was B-VP
 rerouted None
 there B-ADVP
 . O
+
 Soon B-ADVP
 after B-SBAR
 the B-NP
@@ -18959,6 +19759,7 @@ of I-PP
 140.95 None
 yen I-NP
 . O
+
 Some B-NP
 of I-PP
 those B-NP
@@ -18979,6 +19780,7 @@ certificates I-NP
 of I-PP
 deposit B-NP
 . O
+
 But O
 many B-NP
 others B-NP
@@ -19022,6 +19824,7 @@ Florida B-NP
 from B-PP
 Orlando None
 . O
+
 The B-NP
 stock I-NP
 , O
@@ -19053,6 +19856,7 @@ at B-PP
 down B-PRT
 1\/4 I-NP
 . O
+
 Over B-PP
 at B-PP
 the B-NP
@@ -19086,6 +19890,7 @@ of I-PP
 the B-NP
 nation I-NP
 . O
+
 But O
 analysts B-NP
 estimate I-NP
@@ -19097,6 +19902,7 @@ at B-PP
 30 I-NP
 million I-NP
 . O
+
 The B-NP
 company I-NP
 , O
@@ -19136,6 +19942,7 @@ Calif. B-NP
 was B-VP
 undamaged B-ADJP
 . O
+
 `` O
 I B-NP
 did B-VP
@@ -19147,6 +19954,7 @@ be I-VP
 this B-NP
 quiet B-NP
 . O
+
 The B-NP
 machines I-NP
 will B-VP
@@ -19159,6 +19967,7 @@ average B-ADJP
 in B-PP
 Europe B-NP
 . O
+
 The B-NP
 6 I-NP
 3\/4 I-NP
@@ -19168,6 +19977,7 @@ yield I-VP
 6.25 B-NP
 % I-ADJP
 . O
+
 Mayer I-NP
 , O
 Brown B-NP
@@ -19195,6 +20005,7 @@ C. I-NP
 Dodd I-NP
 ... O
 . O
+
 She B-NP
 says B-VP
 it B-NP
@@ -19208,6 +20019,7 @@ Cleveland B-NP
 tourist I-NP
 revenue I-NP
 . O
+
 The B-NP
 company I-NP
 also I-CONJP
@@ -19217,10 +20029,12 @@ character I-NP
 recognition I-NP
 equipment I-NP
 . O
+
 Perhaps B-ADJP
 it B-NP
 does B-VP
 . O
+
 In B-PP
 Greenwich B-NP
 , O
@@ -19257,6 +20071,7 @@ have I-VP
 been I-VP
 anticipated I-VP
 . O
+
 Electronic I-NP
 theft None
 by B-PP
@@ -19279,6 +20094,7 @@ international I-NP
 competitive I-ADJP
 advantage I-NP
 . O
+
 Seymour None
 Schreibman I-NP
 , O
@@ -19306,6 +20122,7 @@ reversible None
 fur-and-leather None
 garment None
 . O
+
 And O
 Ms. B-NP
 Pfeiffer I-NP
@@ -19364,6 +20181,7 @@ her B-NP
 own I-NP
 right I-ADJP
 . O
+
 Many B-NP
 analysts B-NP
 expect B-VP
@@ -19393,6 +20211,7 @@ down B-PRT
 next B-ADVP
 year I-NP
 . O
+
 That B-NP
 allowed I-VP
 him B-NP
@@ -19406,6 +20225,7 @@ stronger B-ADJP
 he B-NP
 says B-VP
 . O
+
 `` O
 The B-NP
 market I-NP
@@ -19442,6 +20262,7 @@ overcommitted None
 to B-PP
 stocks I-NP
 . O
+
 But O
 against B-PP
 that B-SBAR
@@ -19492,6 +20313,7 @@ and I-UCP
 an B-NP
 essay I-NP
 . O
+
 A B-NP
 parliamentary I-NP
 investigative None
@@ -19523,6 +20345,7 @@ individual B-NP
 or I-PP
 company I-NP
 . O
+
 The B-NP
 results I-NP
 include I-VP
@@ -19551,6 +20374,7 @@ a B-LST
 year I-NP
 earlier B-ADVP
 . O
+
 `` O
 As B-SBAR
 a B-LST
@@ -19599,6 +20423,7 @@ veto I-VP
 this B-NP
 bill I-NP
 . O
+
 The B-NP
 heart I-NP
 of I-PP
@@ -19635,6 +20460,7 @@ and I-UCP
 other B-NP
 items I-NP
 . O
+
 But O
 in B-PP
 these B-NP
@@ -19687,6 +20513,7 @@ all I-ADVP
 local B-ADJP
 lifts None
 . O
+
 Arbitragers None
 were B-VP
 n't I-VP
@@ -19702,6 +20529,7 @@ UAL B-NP
 Corp. I-NP
 stock I-NP
 . O
+
 Unable None
 to B-PP
 persuade I-VP
@@ -19724,6 +20552,7 @@ for B-PP
 a B-LST
 hearing B-VP
 . O
+
 Because B-SBAR
 of I-PP
 the B-NP
@@ -19752,6 +20581,7 @@ Senate I-NP
 Banking I-NP
 committees I-NP
 . O
+
 `` O
 Self-sufficiency None
 has B-VP
@@ -19781,6 +20611,7 @@ in B-PP
 Los B-NP
 Angeles I-NP
 . O
+
 Vista B-NP
 Chemical B-NP
 Co. I-NP
@@ -19820,6 +20651,7 @@ company I-NP
 safety B-NP
 director I-NP
 . O
+
 Investors B-NP
 who B-NP
 listened None
@@ -19840,6 +20672,7 @@ themselves B-NP
 he B-NP
 says B-VP
 . O
+
 The B-NP
 company I-NP
 also I-CONJP
@@ -19865,6 +20698,7 @@ and I-UCP
 Turtle None
 Tots None
 . O
+
 Indeed B-INTJ
 , O
 according B-PP
@@ -19889,6 +20723,7 @@ toppled None
 Mr. B-NP
 Honecker I-NP
 . O
+
 Under B-PP
 the B-NP
 proposal I-NP
@@ -19922,11 +20757,13 @@ partner I-NP
 and I-UCP
 manager I-NP
 . O
+
 March B-NP
 24 I-NP
 , O
 1986 B-NP
 : O
+
 Viktor None
 Sidorenko None
 , O
@@ -19950,10 +20787,12 @@ Kursk None
 and I-UCP
 Smolensk None
 . O
+
 He B-NP
 credits I-NP
 imports B-NP
 . O
+
 Amoco B-NP
 also I-CONJP
 sharply B-ADVP
@@ -19973,6 +20812,7 @@ Inc. I-NP
 last I-ADVP
 year I-NP
 . O
+
 The B-NP
 CBOE I-NP
 opened B-VP
@@ -19994,6 +20834,7 @@ of I-PP
 Trade B-NP
 lunchroom None
 . O
+
 The B-NP
 235 I-NP
 general-purpose B-NP
@@ -20020,6 +20861,7 @@ $ B-NP
 154.05 None
 billion I-NP
 . O
+
 But O
 given I-VP
 such B-PP
@@ -20037,6 +20879,7 @@ on B-PRT
 image I-NP
 advertising I-NP
 . O
+
 Ms. B-NP
 Moss I-NP
 said B-VP
@@ -20069,6 +20912,7 @@ she B-NP
 was B-VP
 pregnant B-ADJP
 . O
+
 But O
 the B-NP
 partners I-NP
@@ -20089,6 +20933,7 @@ they B-NP
 had B-VP
 hoped I-VP
 . O
+
 In B-PP
 both B-NP
 cases I-NP
@@ -20108,6 +20953,7 @@ of I-PP
 the B-NP
 pie I-NP
 . O
+
 Canadian I-NP
 Pacific I-NP
 is I-INTJ
@@ -20129,6 +20975,7 @@ railroad I-NP
 since B-SBAR
 1947 None
 . O
+
 They B-NP
 currently B-ADVP
 have I-VP
@@ -20138,6 +20985,7 @@ for B-PP
 cargo B-NP
 planes I-NP
 . O
+
 California B-NP
 expects B-VP
 to B-PP
@@ -20179,6 +21027,7 @@ a B-LST
 state I-NP
 official I-NP
 . O
+
 Computer I-NP
 parts I-NP
 are B-VP
@@ -20207,6 +21056,7 @@ the B-NP
 computer I-NP
 business I-NP
 . O
+
 The B-NP
 effete None
 Tyrannosaurus None
@@ -20231,6 +21081,7 @@ in B-PP
 the B-NP
 museum None
 . O
+
 The B-NP
 per-share I-NP
 estimates B-VP
@@ -20261,6 +21112,7 @@ the B-NP
 year-before I-NP
 period I-NP
 . O
+
 The B-NP
 poll I-NP
 conducted B-VP
@@ -20286,6 +21138,7 @@ June B-NP
 , O
 1989 I-NP
 . O
+
 The B-NP
 announcement I-NP
 boosted I-VP
@@ -20316,6 +21169,7 @@ American B-NP
 Stock I-NP
 Exchange I-NP
 . O
+
 But O
 its B-NP
 auditor None
@@ -20344,6 +21198,7 @@ going I-VP
 concern I-NP
 . O
 '' O
+
 `` O
 There B-NP
 is I-INTJ
@@ -20389,6 +21244,7 @@ active B-ADJP
 management I-NP
 services I-NP
 . O
+
 Capitalism None
 may B-VP
 now B-ADVP
@@ -20440,6 +21296,7 @@ history I-NP
 is I-INTJ
 over B-PRT
 . O
+
 Both B-NP
 accounts I-NP
 reflect I-VP
@@ -20465,6 +21322,7 @@ administration I-NP
 's B-NP
 request I-NP
 . O
+
 But O
 in B-PP
 this B-NP
@@ -20477,6 +21335,7 @@ very B-ADJP
 sharp I-ADJP
 point I-ADVP
 . O
+
 Occidental I-NP
 Petroleum I-NP
 Corp. I-NP
@@ -20499,6 +21358,7 @@ its B-NP
 16-story None
 headquarters I-NP
 . O
+
 J.C. None
 Penney None
 Co. I-NP
@@ -20554,6 +21414,7 @@ the B-NP
 ad I-NP
 reads None
 . O
+
 One B-NP
 top I-NP
 U.S. I-NP
@@ -20584,6 +21445,7 @@ German I-NP
 leadership I-NP
 . O
 '' O
+
 It B-NP
 is I-INTJ
 a B-LST
@@ -20613,6 +21475,7 @@ do B-VP
 n't I-VP
 feel I-VP
 . O
+
 These B-NP
 figures I-NP
 are B-VP
@@ -20620,6 +21483,7 @@ n't I-VP
 seasonally I-VP
 adjusted I-VP
 . O
+
 In B-PP
 fact I-ADVP
 , O
@@ -20642,6 +21506,7 @@ actor I-NP
 and I-UCP
 audience I-NP
 . O
+
 Major B-NP
 European I-NP
 auction I-NP
@@ -20653,6 +21518,7 @@ to B-PP
 specialized None
 sales I-NP
 . O
+
 A B-NP
 Japan B-NP
 Air I-NP
@@ -20680,6 +21546,7 @@ operations I-NP
 was B-VP
 difficult I-ADJP
 . O
+
 Valley I-NP
 National I-NP
 Corp. I-NP
@@ -20715,6 +21582,7 @@ real B-ADJP
 estate I-NP
 holdings I-NP
 . O
+
 Reuben None
 Mark I-NP
 , O
@@ -20744,8 +21612,10 @@ East B-NP
 and I-UCP
 Europe B-NP
 . O
+
 White B-ADJP
 Females I-NP
+
 Of B-PP
 course B-NP
 I B-NP
@@ -20765,6 +21635,7 @@ hazardous I-NP
 waste I-VP
 incinerator I-NP
 . O
+
 Underwear None
 scored None
 a B-LST
@@ -20790,6 +21661,7 @@ a B-LST
 mundane None
 product I-NP
 . O
+
 Then B-ADVP
 add I-VP
 and I-UCP
@@ -20803,6 +21675,7 @@ a B-LST
 wider I-ADJP
 range I-ADJP
 . O
+
 The B-NP
 Atlanta-based None
 chemical I-NP
@@ -20816,6 +21689,7 @@ for B-PP
 most B-ADJP
 products I-NP
 . O
+
 `` O
 The B-NP
 bottom I-NP
@@ -20846,6 +21720,7 @@ businesses I-NP
 he B-NP
 said B-VP
 . O
+
 To B-VP
 make I-VP
 them B-NP
@@ -20864,6 +21739,7 @@ of I-PP
 equaling B-VP
 100 I-NP
 . O
+
 Misawa B-NP
 Homes I-NP
 was B-VP
@@ -20872,6 +21748,7 @@ up B-PRT
 at B-PP
 2,960 None
 . O
+
 And O
 the B-NP
 Colorado B-NP
@@ -20894,6 +21771,7 @@ as B-CONJP
 $ B-NP
 100 I-NP
 ? O
+
 Meanwhile B-ADVP
 , O
 several B-NP
@@ -20923,6 +21801,7 @@ could B-VP
 be I-VP
 expected I-VP
 . O
+
 But O
 in B-PP
 the B-NP
@@ -20954,6 +21833,7 @@ a B-LST
 dangerous I-NP
 gambit I-NP
 . O
+
 Sales B-NP
 for B-PP
 the B-NP
@@ -20973,6 +21853,7 @@ computer I-NP
 parts I-NP
 said B-VP
 . O
+
 In B-PP
 composite I-NP
 trading I-NP
@@ -20996,6 +21877,7 @@ down B-PRT
 62.5 B-NP
 cents I-NP
 . O
+
 `` O
 We B-NP
 expect B-VP
@@ -21028,6 +21910,7 @@ with B-PP
 demand I-NP
 . O
 '' O
+
 He B-NP
 said B-VP
 certain I-ADJP
@@ -21041,6 +21924,7 @@ with B-PP
 early I-ADVP
 AIDS B-NP
 . O
+
 In B-PP
 composite I-NP
 trading I-NP
@@ -21063,12 +21947,14 @@ up B-PRT
 87.5 B-NP
 cents I-NP
 . O
+
 DISCOUNT B-NP
 RATE I-NP
 : O
 7 B-ADJP
 % I-ADJP
 . O
+
 Disk None
 drives I-NP
 , O
@@ -21101,6 +21987,7 @@ a B-LST
 year I-NP
 earlier B-ADVP
 . O
+
 The B-NP
 Afrikaner I-NP
 must B-VP
@@ -21111,6 +21998,7 @@ on B-PRT
 others B-NP
 . O
 '' O
+
 For B-PP
 the B-NP
 past I-NP
@@ -21131,6 +22019,7 @@ of I-PP
 its B-NP
 business I-NP
 . O
+
 The B-NP
 company I-NP
 's B-NP
@@ -21147,6 +22036,7 @@ the B-NP
 year-earlier I-NP
 level I-NP
 . O
+
 The B-NP
 volume I-NP
 is I-INTJ
@@ -21178,6 +22068,7 @@ the B-NP
 third I-NP
 quarter I-NP
 . O
+
 Traders B-NP
 and I-UCP
 analysts B-NP
@@ -21196,6 +22087,7 @@ the B-NP
 California B-NP
 earthquake I-NP
 . O
+
 But O
 the B-NP
 new I-NP
@@ -21211,6 +22103,7 @@ broad I-NP
 racial I-NP
 preferences I-NP
 . O
+
 Digital B-NP
 's B-NP
 new I-NP
@@ -21222,6 +22115,7 @@ long I-ADVP
 time I-NP
 coming I-VP
 . O
+
 The B-NP
 properties I-NP
 held I-VP
@@ -21248,11 +22142,13 @@ School I-NP
 in B-PP
 Dallas B-NP
 . O
+
 William B-NP
 C. I-NP
 Barksdale I-NP
 Jr I-NP
 . O
+
 The B-NP
 average B-ADJP
 30-day I-NP
@@ -21283,6 +22179,7 @@ from B-PP
 8.61 None
 % I-ADJP
 . O
+
 `` O
 It B-NP
 's B-NP
@@ -21305,6 +22202,7 @@ Core I-NP
 Mr. B-NP
 Lynn B-NP
 . O
+
 Prices B-NP
 also I-CONJP
 closed B-VP
@@ -21328,6 +22226,7 @@ lower I-ADJP
 in B-PP
 Seoul B-NP
 . O
+
 Republicans I-NP
 are B-VP
 squinting I-VP
@@ -21351,6 +22250,7 @@ shielded None
 the B-NP
 most B-ADJP
 . O
+
 An B-NP
 examination B-NP
 of I-PP
@@ -21414,6 +22314,7 @@ as B-CONJP
 committee I-NP
 staff I-NP
 . O
+
 In B-PP
 addition B-NP
 , O
@@ -21447,6 +22348,7 @@ check I-VP
 newspaper I-NP
 listings I-NP
 . O
+
 It B-NP
 did B-VP
 n't I-VP
@@ -21455,6 +22357,7 @@ by B-PP
 how B-ADVP
 much I-ADVP
 . O
+
 Last B-NP
 Friday B-NP
 , O
@@ -21474,6 +22377,7 @@ down B-PRT
 to B-PP
 85 I-NP
 . O
+
 At B-PP
 first B-ADVP
 , O
@@ -21481,6 +22385,7 @@ we B-NP
 were B-VP
 unfazed None
 . O
+
 International I-NP
 Business I-NP
 Machines I-NP
@@ -21510,6 +22415,7 @@ its B-NP
 battered I-VP
 stock I-NP
 . O
+
 Stop B-NP
 Order I-NP
 : O
@@ -21533,6 +22439,7 @@ a B-LST
 certain I-ADJP
 level I-NP
 . O
+
 But O
 WCRS B-NP
 added B-VP
@@ -21569,6 +22476,7 @@ Montagu I-NP
 Co. I-NP
 Ltd I-NP
 . O
+
 Of B-PP
 the B-NP
 four B-NP
@@ -21585,6 +22493,7 @@ bids I-NP
 one B-NP
 apiece B-ADVP
 . O
+
 The B-NP
 transaction I-NP
 represents B-VP
@@ -21596,6 +22505,7 @@ the B-NP
 telephone I-NP
 business I-NP
 . O
+
 Because B-SBAR
 of I-PP
 the B-NP
@@ -21619,6 +22529,7 @@ quake I-NP
 's B-NP
 aftermath I-NP
 . O
+
 Nor O
 was B-VP
 it B-NP
@@ -21637,6 +22548,7 @@ points I-NP
 were B-VP
 raised B-VP
 . O
+
 Analysts B-NP
 said B-VP
 the B-NP
@@ -21649,6 +22561,7 @@ of I-PP
 the B-NP
 industry I-NP
 . O
+
 Officials B-NP
 there B-ADVP
 declined B-VP
@@ -21660,6 +22573,7 @@ did B-VP
 Helmsley B-NP
 management I-NP
 . O
+
 Italy B-NP
 's B-NP
 industrial I-NP
@@ -21683,6 +22597,7 @@ institute I-VP
 Istat B-NP
 said B-VP
 . O
+
 Sen. B-NP
 Boren I-NP
 said B-VP
@@ -21712,6 +22627,7 @@ in B-PP
 the B-NP
 future I-NP
 . O
+
 These B-NP
 research I-NP
 protocols None
@@ -21739,6 +22655,7 @@ something B-NP
 still B-ADVP
 better I-ADVP
 . O
+
 The B-NP
 Tax I-NP
 Court I-NP
@@ -21780,6 +22697,7 @@ in B-PP
 other B-NP
 fields B-VP
 . O
+
 But O
 a B-LST
 medical B-NP
@@ -21803,6 +22721,7 @@ as B-CONJP
 independent I-ADJP
 contractors I-NP
 . O
+
 But O
 the B-NP
 lot I-NP
@@ -21829,6 +22748,7 @@ the B-NP
 average B-ADJP
 crevasse None
 . O
+
 Some B-NP
 scientists I-NP
 have I-VP
@@ -21857,6 +22777,7 @@ to B-PP
 spawn None
 life I-NP
 . O
+
 In B-PP
 August B-NP
 1983 B-NP
@@ -21898,6 +22819,7 @@ boss I-NP
 Omar I-NP
 Torrijos I-NP
 . O
+
 In B-PP
 an B-NP
 interview I-NP
@@ -21933,6 +22855,7 @@ the B-NP
 new I-NP
 agency I-NP
 . O
+
 They B-NP
 were B-VP
 the B-NP
@@ -21947,6 +22870,7 @@ Manuel I-NP
 Antonio I-NP
 Noriega I-NP
 . O
+
 `` O
 I B-NP
 've B-VP
@@ -21971,6 +22895,7 @@ Mr. B-NP
 McClelland I-NP
 says B-VP
 . O
+
 But O
 Mr. B-NP
 Rose I-NP
@@ -21982,6 +22907,7 @@ at B-PP
 the B-NP
 9000 I-NP
 . O
+
 That B-NP
 , O
 coupled B-PP
@@ -22011,6 +22937,7 @@ months I-NP
 he B-NP
 says B-VP
 . O
+
 THE B-NP
 SALES None
 PITCH None
@@ -22019,6 +22946,7 @@ n't I-VP
 sound B-ADJP
 better I-ADVP
 . O
+
 Kurds None
 , O
 suffering I-VP
@@ -22046,6 +22974,7 @@ inundated I-VP
 eastern I-NP
 Turkey B-NP
 . O
+
 A&W None
 Brands I-NP
 lost B-VP
@@ -22053,6 +22982,7 @@ lost B-VP
 to B-PP
 27 B-NP
 . O
+
 Continental I-NP
 Bank I-NP
 Corp. I-NP
@@ -22078,6 +23008,7 @@ London B-NP
 headquarters I-NP
 building I-NP
 . O
+
 Enthusiasts None
 say B-INTJ
 the B-NP
@@ -22106,6 +23037,7 @@ individuals B-NP
 and I-UCP
 institutions I-NP
 . O
+
 This B-NP
 bill I-NP
 simply B-ADVP
@@ -22130,6 +23062,7 @@ without B-PP
 taxpayer I-NP
 support I-VP
 . O
+
 Twelve None
 hundred I-NP
 miles I-NP
@@ -22157,6 +23090,7 @@ share I-NP
 the B-NP
 enthusiasm I-NP
 . O
+
 He B-NP
 added B-VP
 the B-NP
@@ -22187,6 +23121,7 @@ transaction I-NP
 that B-SBAR
 collapsed B-VP
 . O
+
 But O
 the B-NP
 Nikkei I-NP
@@ -22213,6 +23148,7 @@ on B-PRT
 Oct. B-NP
 13 B-NP
 . O
+
 President B-NP
 Carlos I-NP
 Salinas I-NP
@@ -22254,6 +23190,7 @@ inefficient I-ADJP
 oil I-NP
 companies I-NP
 . O
+
 Some B-NP
 banks I-NP
 actually B-ADVP
@@ -22269,6 +23206,7 @@ the B-NP
 latest I-NP
 week I-NP
 . O
+
 Even B-SBAR
 the B-NP
 minority B-NP
@@ -22317,6 +23255,7 @@ agency I-NP
 's B-NP
 capacity I-NP
 . O
+
 However B-ADVP
 , O
 Judge B-NP
@@ -22342,6 +23281,7 @@ U.S. I-NP
 Supreme I-NP
 Court I-NP
 . O
+
 John B-NP
 Sculley I-NP
 , O
@@ -22370,6 +23310,7 @@ brightened None
 sales I-NP
 performance I-NP
 . O
+
 Nor O
 did B-VP
 they B-NP
@@ -22387,6 +23328,7 @@ about B-PP
 $ B-NP
 44,000 None
 . O
+
 The B-NP
 bill I-NP
 does B-VP
@@ -22416,6 +23358,7 @@ with B-PP
 the B-NP
 House I-NP
 . O
+
 At B-PP
 Nynex B-NP
 , O
@@ -22449,6 +23392,7 @@ taxes I-NP
 and I-UCP
 costs I-NP
 . O
+
 `` O
 The B-NP
 unnecessary None
@@ -22480,6 +23424,7 @@ the B-NP
 panel I-NP
 said B-VP
 . O
+
 Three B-NP
 savings-and-loan I-NP
 institutions I-NP
@@ -22511,6 +23456,7 @@ RTC I-NP
 their B-NP
 receiver I-NP
 . O
+
 The B-NP
 Minneapolis-based None
 retailer I-NP
@@ -22527,6 +23473,7 @@ shares I-NP
 next B-ADVP
 Thursday B-NP
 . O
+
 Crude B-NP
 oil I-NP
 for B-PP
@@ -22545,6 +23492,7 @@ $ B-NP
 a B-LST
 barrel I-NP
 . O
+
 Curiously None
 , O
 he B-NP
@@ -22563,6 +23511,7 @@ outlawed I-VP
 in B-PP
 1960 B-NP
 . O
+
 Combustion None
 Engineering I-NP
 Inc. I-NP
@@ -22600,6 +23549,7 @@ and I-UCP
 general B-ADJP
 purposes I-NP
 . O
+
 The B-NP
 head I-VP
 of I-PP
@@ -22617,12 +23567,14 @@ the B-NP
 assassination I-NP
 plan I-NP
 . O
+
 The B-NP
 offering I-NP
 used I-VP
 at-market None
 pricing I-NP
 . O
+
 Having B-VP
 survived B-VP
 both B-NP
@@ -22658,6 +23610,7 @@ returned I-VP
 to B-PP
 normal I-ADJP
 . O
+
 A B-NP
 labor-management I-NP
 group I-NP
@@ -22696,6 +23649,7 @@ with B-PP
 the B-NP
 group I-NP
 . O
+
 Hurricane B-NP
 Hugo I-NP
 , O
@@ -22708,6 +23662,7 @@ n't I-VP
 affect I-VP
 Vista B-NP
 . O
+
 The B-NP
 paper I-NP
 producer I-NP
@@ -22743,6 +23698,7 @@ the B-NP
 year-earlier I-NP
 period I-NP
 . O
+
 When B-ADVP
 you B-NP
 buy I-VP
@@ -22766,6 +23722,7 @@ into B-PP
 unexpected I-NP
 difficulties B-NP
 . O
+
 If B-SBAR
 you B-NP
 're B-VP
@@ -22800,6 +23757,7 @@ a B-LST
 bankruptcy I-NP
 proceeding I-VP
 . O
+
 So B-ADVP
 it B-NP
 will B-VP
@@ -22833,11 +23791,13 @@ into B-PP
 their B-NP
 operations I-NP
 . O
+
 Source B-NP
 : O
 PaineWebber B-NP
 Inc I-NP
 . O
+
 `` O
 We B-NP
 call I-VP
@@ -22846,6 +23806,7 @@ fraud I-NP
 farms None
 . O
 '' O
+
 He B-NP
 said B-VP
 Rorer B-NP
@@ -22876,6 +23837,7 @@ the B-NP
 year-earlier I-NP
 period I-NP
 . O
+
 Hewlett-Packard B-NP
 will B-VP
 charge I-NP
@@ -22888,6 +23850,7 @@ covering B-VP
 10 I-ADVP
 users I-NP
 . O
+
 '' O
 -LRB- O
 Investigators B-NP
@@ -22910,6 +23873,7 @@ paying I-VP
 rent I-VP
 . O
 -RRB- O
+
 Two B-NP
 Air I-NP
 Force I-NP
@@ -22938,6 +23902,7 @@ as B-CONJP
 medical-airlift None
 centers I-NP
 . O
+
 But O
 revenue I-NP
 declined B-VP
@@ -22969,6 +23934,7 @@ company I-NP
 sales I-NP
 practices I-NP
 . O
+
 The B-NP
 company I-NP
 said B-VP
@@ -22982,6 +23948,7 @@ higher-priced None
 soft B-ADJP
 drinks I-NP
 . O
+
 Still B-ADVP
 others B-NP
 are B-VP
@@ -23012,6 +23979,7 @@ Department I-NP
 bunko-forgery None
 division I-NP
 . O
+
 And O
 they B-NP
 wo B-VP
@@ -23036,6 +24004,7 @@ quarter I-NP
 of I-PP
 1990 B-NP
 . O
+
 Sales B-NP
 rose B-VP
 5.2 B-NP
@@ -23052,6 +24021,7 @@ the B-NP
 previous I-NP
 year I-NP
 . O
+
 Data I-NP
 for B-PP
 1987 B-NP
@@ -23089,6 +24059,7 @@ one B-NP
 in B-PP
 four B-NP
 . O
+
 The B-NP
 returns I-NP
 landed B-VP
@@ -23107,6 +24078,7 @@ Samuel B-NP
 James B-NP
 Baker I-NP
 . O
+
 Mr. B-NP
 Kelly I-NP
 built I-VP
@@ -23128,6 +24100,7 @@ the B-NP
 junk-bond I-NP
 arena I-NP
 . O
+
 The B-NP
 result I-VP
 is I-INTJ
@@ -23153,6 +24126,7 @@ to B-PP
 make I-VP
 less B-ADJP
 . O
+
 MacNamara None
 Clapp None
 & I-NP
@@ -23182,6 +24156,7 @@ in B-PP
 their B-NP
 publications I-NP
 . O
+
 In B-PP
 addition B-NP
 , O
@@ -23218,6 +24193,7 @@ of I-PP
 privatization I-NP
 . O
 '' O
+
 An B-NP
 experimental I-NP
 vaccine I-NP
@@ -23240,6 +24216,7 @@ U.S. I-NP
 scientist I-NP
 said B-VP
 . O
+
 In B-PP
 addition B-NP
 , O
@@ -23261,6 +24238,7 @@ since B-SBAR
 Jan. B-NP
 1 B-LST
 . O
+
 New B-NP
 York I-NP
 real B-ADJP
@@ -23280,6 +24258,7 @@ finding I-VP
 new I-NP
 tenants I-NP
 . O
+
 Quarter None
 revenue I-NP
 was B-VP
@@ -23297,6 +24276,7 @@ million I-NP
 last I-ADVP
 year I-NP
 . O
+
 As B-SBAR
 former I-NP
 Ambassador I-NP
@@ -23346,6 +24326,7 @@ was B-VP
 settled B-VP
 . O
 '' O
+
 Retired B-NP
 army I-NP
 Chief I-NP
@@ -23371,6 +24352,7 @@ the B-NP
 Bofors I-NP
 contract I-NP
 . O
+
 Sales B-NP
 for B-PP
 the B-NP
@@ -23385,9 +24367,11 @@ $ B-NP
 1.03 I-NP
 billion I-NP
 . O
+
 MINOR None
 MEMOS None
 : O
+
 He B-NP
 knew B-VP
 which B-NP
@@ -23407,6 +24391,7 @@ with B-PP
 their B-NP
 mistresses None
 . O
+
 I B-NP
 suggest B-VP
 that B-SBAR
@@ -23460,6 +24445,7 @@ El B-NP
 Espectador I-NP
 journalists B-NP
 . O
+
 The B-NP
 amount I-NP
 would B-VP
@@ -23486,6 +24472,7 @@ assistance I-NP
 to B-PP
 arrive None
 . O
+
 Your B-NP
 Oct. B-NP
 12 I-NP
@@ -23538,6 +24525,7 @@ on B-PRT
 Oct. B-NP
 3 B-LST
 . O
+
 Mr. B-NP
 Bakes I-NP
 declined B-VP
@@ -23571,6 +24559,7 @@ held I-VP
 in B-PP
 escrow None
 . O
+
 What B-NP
 happens B-VP
 if I-SBAR
@@ -23586,6 +24575,7 @@ pay I-VP
 the B-NP
 tuitions I-NP
 ? O
+
 He B-NP
 said B-VP
 he B-NP
@@ -23611,6 +24601,7 @@ economists I-NP
 have I-VP
 suggested B-VP
 . O
+
 Dr. B-NP
 Andrew None
 McBride None
@@ -23642,6 +24633,7 @@ with B-PP
 the B-NP
 virus I-NP
 . O
+
 Hewlett-Packard B-NP
 Co. I-NP
 also I-CONJP
@@ -23656,6 +24648,7 @@ whole B-ADJP
 computer-integrated-manufacturing I-NP
 arena I-NP
 . O
+
 Georgia B-NP
 Pacific I-NP
 Corp. I-NP
@@ -23683,6 +24676,7 @@ reported B-VP
 strong I-ADJP
 profits I-NP
 . O
+
 Japanese B-NP
 air-conditioner None
 maker I-NP
@@ -23715,6 +24709,7 @@ in B-PP
 missile-guidance None
 systems I-NP
 . O
+
 October B-NP
 is I-INTJ
 a B-LST
@@ -23725,6 +24720,7 @@ the B-NP
 privatization I-NP
 program I-NP
 . O
+
 Since B-SBAR
 40 B-NP
 % I-ADJP
@@ -23748,6 +24744,7 @@ entertainment I-NP
 for B-PP
 kids B-NP
 . O
+
 `` O
 The B-NP
 merger I-NP
@@ -23772,6 +24769,7 @@ firm I-NP
 he B-NP
 said B-VP
 . O
+
 Elected B-VP
 to B-PP
 Congress B-NP
@@ -23792,6 +24790,7 @@ three B-NP
 years I-NP
 later B-ADVP
 . O
+
 Only B-ADVP
 a B-LST
 few I-NP
@@ -23802,6 +24801,7 @@ the B-NP
 reading B-VP
 room I-NP
 . O
+
 China B-NP
 said B-VP
 the B-NP
@@ -23834,6 +24834,7 @@ organization I-NP
 is I-INTJ
 restored I-VP
 . O
+
 I B-NP
 decided I-VP
 to B-PP
@@ -23841,6 +24842,7 @@ brave I-ADJP
 the B-NP
 storm I-NP
 . O
+
 Mr. B-NP
 Daly I-NP
 said B-VP
@@ -23869,6 +24871,7 @@ fast-growing None
 air-freight I-NP
 companies I-NP
 . O
+
 The B-NP
 Cypress I-NP
 reinforcement I-NP
@@ -23889,6 +24892,7 @@ vulnerable I-ADJP
 to B-PP
 earthquakes B-NP
 . O
+
 Ford B-NP
 has B-VP
 signaled I-VP
@@ -23900,6 +24904,7 @@ majority I-NP
 interest I-NP
 later B-ADVP
 . O
+
 He B-NP
 added B-VP
 : O
@@ -23924,6 +24929,7 @@ the B-NP
 year I-NP
 . O
 '' O
+
 In B-PP
 the B-NP
 short I-ADJP
@@ -23938,6 +24944,7 @@ have I-VP
 little I-ADJP
 effect I-NP
 . O
+
 The B-NP
 government I-NP
 issues I-NP
@@ -23964,6 +24971,7 @@ much I-ADVP
 tamer None
 inflation B-NP
 . O
+
 Nor O
 is I-INTJ
 it B-NP
@@ -23989,6 +24997,7 @@ a B-LST
 multiparty None
 democracy B-NP
 . O
+
 `` O
 I B-NP
 always B-ADVP
@@ -24006,6 +25015,7 @@ Mrs. B-NP
 Lombardi I-NP
 says B-VP
 . O
+
 Mr. B-NP
 Sculley I-NP
 also I-CONJP
@@ -24036,6 +25046,7 @@ chip I-NP
 prices I-NP
 eased B-VP
 . O
+
 The B-NP
 Street I-NP
 knows B-VP
@@ -24057,6 +25068,7 @@ consecutive I-NP
 yearly I-NP
 increase I-VP
 . O
+
 The B-NP
 administration I-NP
 has B-VP
@@ -24088,6 +25100,7 @@ freedom I-NP
 of I-PP
 action I-NP
 . O
+
 The B-NP
 gain I-NP
 reflects B-VP
@@ -24103,6 +25116,7 @@ the B-NP
 economy I-NP
 slows None
 . O
+
 Sales B-NP
 rose B-VP
 to B-PP
@@ -24114,6 +25128,7 @@ $ B-NP
 7.65 B-NP
 billion I-NP
 . O
+
 Moody B-NP
 's B-NP
 said B-VP
@@ -24136,6 +25151,7 @@ some B-NP
 major I-NP
 markets I-NP
 . O
+
 Second B-LST
 , O
 the B-NP
@@ -24172,6 +25188,7 @@ that B-SBAR
 are B-VP
 unpopular None
 . O
+
 Stung None
 by B-PP
 higher I-ADJP
@@ -24216,6 +25233,7 @@ the B-NP
 year I-NP
 earlier B-ADVP
 . O
+
 Spokesmen B-NP
 for B-PP
 Wendy B-NP
@@ -24229,6 +25247,7 @@ Rohs I-NP
 's B-NP
 calculations I-NP
 . O
+
 FOREIGN B-NP
 PRIME B-NP
 RATES I-NP
@@ -24253,6 +25272,7 @@ Britain B-NP
 15 I-NP
 % I-ADJP
 . O
+
 Nixon I-NP
 , O
 Hargrave None
@@ -24277,6 +25297,7 @@ Buffalo B-NP
 N.Y B-NP
 ... O
 . O
+
 AMR B-NP
 has B-VP
 not B-CONJP
@@ -24290,9 +25311,11 @@ for B-PP
 sale I-NP
 . O
 '' O
+
 3:25 None
 a.m I-NP
 . O
+
 A B-NP
 year I-NP
 at B-PP
@@ -24303,6 +25326,7 @@ for B-PP
 $ B-NP
 19,395 None
 . O
+
 Chancellor O
 of I-PP
 the B-NP
@@ -24330,6 +25354,7 @@ the B-NP
 past I-NP
 week I-NP
 . O
+
 Mr. B-NP
 Stein I-NP
 was B-VP
@@ -24342,6 +25367,7 @@ for B-PP
 three B-NP
 years I-NP
 . O
+
 The B-NP
 House I-NP
 Energy B-NP
@@ -24354,6 +25380,7 @@ later B-ADVP
 this B-NP
 month I-NP
 . O
+
 Ronald B-NP
 I. I-NP
 Mandle None
@@ -24381,6 +25408,7 @@ taxes I-NP
 strong I-ADJP
 . O
 '' O
+
 ADN I-NP
 said B-VP
 Mr. B-NP
@@ -24419,6 +25447,7 @@ of I-PP
 the B-NP
 military B-ADJP
 . O
+
 By B-PP
 buying I-VP
 futures I-NP
@@ -24445,6 +25474,7 @@ obligated None
 to B-PP
 deliver I-VP
 . O
+
 However B-ADVP
 , O
 with B-PP
@@ -24467,6 +25497,7 @@ shares I-NP
 traders B-NP
 say B-INTJ
 . O
+
 In B-PP
 national B-ADJP
 over-the-counter I-NP
@@ -24482,6 +25513,7 @@ $ B-NP
 , O
 unchanged B-ADJP
 . O
+
 Finally B-ADVP
 , O
 Tuesday B-NP
@@ -24526,6 +25558,7 @@ exposure I-NP
 in B-PP
 California B-NP
 . O
+
 Elsewhere B-ADVP
 in B-PP
 the B-NP
@@ -24568,6 +25601,7 @@ to B-PP
 62 B-NP
 1\/2 I-ADJP
 . O
+
 -LRB- O
 Cash None
 flow I-NP
@@ -24589,6 +25623,7 @@ financial I-ADJP
 health I-NP
 . O
 -RRB- O
+
 Offices None
 of I-PP
 the B-NP
@@ -24599,6 +25634,7 @@ Board I-NP
 were B-VP
 destroyed I-VP
 . O
+
 `` O
 For B-PP
 someone B-NP
@@ -24648,12 +25684,14 @@ Francisco I-NP
 card I-NP
 show I-VP
 . O
+
 Auto None
 insurance I-NP
 rates I-NP
 are B-VP
 soaring B-VP
 . O
+
 The B-NP
 move I-VP
 followed I-VP
@@ -24679,6 +25717,7 @@ in B-PP
 that B-SBAR
 market I-NP
 . O
+
 `` O
 Some B-NP
 of I-PP
@@ -24705,6 +25744,7 @@ Reilly None
 Group I-NP
 Inc I-NP
 . O
+
 In B-PP
 East B-NP
 Germany I-NP
@@ -24733,6 +25773,7 @@ leader I-NP
 Egon B-NP
 Krenz I-NP
 . O
+
 He B-NP
 will B-VP
 continue I-VP
@@ -24740,6 +25781,7 @@ as B-CONJP
 a B-LST
 director I-NP
 . O
+
 Efforts None
 to B-PP
 fight I-VP
@@ -24755,6 +25797,7 @@ severed B-VP
 as B-CONJP
 well I-CONJP
 . O
+
 PPG B-NP
 Industries I-NP
 Inc. I-NP
@@ -24803,6 +25846,7 @@ a B-LST
 year I-NP
 ago B-ADVP
 . O
+
 The B-NP
 percent I-NP
 difference I-NP
@@ -24827,11 +25871,13 @@ past I-NP
 30 I-NP
 days I-NP
 . O
+
 He B-NP
 did B-VP
 n't I-VP
 bite None
 . O
+
 Yet B-ADVP
 in B-PP
 1989 I-NP
@@ -24864,6 +25910,7 @@ figures I-NP
 are B-VP
 available B-ADJP
 . O
+
 He B-NP
 moved I-VP
 quickly I-ADVP
@@ -24887,6 +25934,7 @@ the B-NP
 heir I-NP
 apparent B-ADJP
 . O
+
 It B-NP
 was B-VP
 n't I-VP
@@ -24911,6 +25959,7 @@ than I-CONJP
 50 I-NP
 % I-ADJP
 . O
+
 A B-NP
 cross-state None
 econometric None
@@ -24959,6 +26008,7 @@ state I-NP
 tax I-NP
 rate I-NP
 . O
+
 They B-NP
 note B-VP
 that B-SBAR
@@ -24990,6 +26040,7 @@ in B-PP
 more B-ADJP
 imports B-NP
 . O
+
 Like B-PP
 other B-NP
 zeros B-NP
@@ -25022,6 +26073,7 @@ from B-PP
 high I-ADJP
 school I-NP
 . O
+
 Life I-NP
 insurers I-NP
 fared I-VP
@@ -25044,6 +26096,7 @@ to B-PP
 184 B-NP
 1\/2 I-ADJP
 . O
+
 DFC B-NP
 asked B-VP
 the B-NP
@@ -25078,6 +26131,7 @@ US$ B-ADJP
 million I-NP
 -RRB- O
 . O
+
 Having B-VP
 said B-VP
 that B-SBAR
@@ -25094,6 +26148,7 @@ overstate None
 the B-NP
 case I-NP
 . O
+
 In B-PP
 the B-NP
 meantime B-ADVP
@@ -25116,6 +26171,7 @@ city I-NP
 of I-PP
 Esteli None
 . O
+
 The B-NP
 median I-NP
 price I-NP
@@ -25143,6 +26199,7 @@ largest I-NP
 pleasure-boat None
 harbor I-NP
 . O
+
 Like B-PP
 just I-CONJP
 about B-PP
@@ -25155,6 +26212,7 @@ to B-PP
 be I-VP
 seen I-VP
 . O
+
 But O
 the B-NP
 statistics I-NP
@@ -25169,6 +26227,7 @@ of I-PP
 the B-NP
 sort I-VP
 . O
+
 `` O
 We B-NP
 feel I-VP
@@ -25190,6 +26249,7 @@ Mr. B-NP
 Fitzwater I-NP
 said B-VP
 . O
+
 U.S. I-NP
 takeover-stock I-NP
 speculators I-NP
@@ -25217,6 +26277,7 @@ the B-NP
 GM B-NP
 deal I-NP
 . O
+
 British B-NP
 government I-NP
 bonds I-NP
@@ -25236,6 +26297,7 @@ Tuesday B-NP
 's B-NP
 drop I-NP
 . O
+
 In B-PP
 New B-NP
 York I-NP
@@ -25256,6 +26318,7 @@ down B-PRT
 12.5 B-NP
 cents I-NP
 . O
+
 `` O
 There B-NP
 will B-VP
@@ -25281,6 +26344,7 @@ Ms. B-NP
 Mace I-NP
 says B-VP
 . O
+
 He B-NP
 allegedly B-ADVP
 entered I-VP
@@ -25329,6 +26393,7 @@ on B-PRT
 drug I-NP
 charges I-NP
 . O
+
 Advancers None
 on B-PRT
 the B-NP
@@ -25341,6 +26406,7 @@ by B-PP
 to B-PP
 668 B-NP
 . O
+
 `` O
 But O
 they B-NP
@@ -25357,6 +26423,7 @@ the B-NP
 future I-NP
 . O
 '' O
+
 At B-PP
 current I-ADJP
 allocations None
@@ -25373,6 +26440,7 @@ billion I-NP
 on B-PRT
 itself B-NP
 . O
+
 `` O
 It B-NP
 was B-VP
@@ -25381,6 +26449,7 @@ timing B-VP
 mistake I-NP
 . O
 '' O
+
 I B-NP
 was B-VP
 in B-PP
@@ -25411,6 +26480,7 @@ I B-NP
 'm B-VP
 OK None
 . O
+
 London B-NP
 shares I-NP
 rallied B-VP
@@ -25432,6 +26502,7 @@ Wall B-NP
 Street I-NP
 prices I-NP
 . O
+
 Hallwood B-NP
 is I-INTJ
 a B-LST
@@ -25460,6 +26531,7 @@ other B-NP
 real B-ADJP
 estate I-NP
 . O
+
 Both B-NP
 Shearson B-NP
 's B-NP
@@ -25492,6 +26564,7 @@ hold I-VP
 from B-PP
 buy I-VP
 . O
+
 Separately B-ADVP
 , O
 a B-LST
@@ -25524,6 +26597,7 @@ roll I-VP
 call I-VP
 yesterday B-NP
 . O
+
 `` O
 From B-PP
 a B-LST
@@ -25553,6 +26627,7 @@ GTE B-NP
 medical B-NP
 director I-NP
 . O
+
 GOP I-NP
 pollster None
 Neil I-NP
@@ -25577,6 +26652,7 @@ about B-PP
 evened None
 out B-PRT
 . O
+
 But O
 he B-NP
 has B-VP
@@ -25617,6 +26693,7 @@ for B-PP
 other B-NP
 women I-NP
 . O
+
 Among B-PP
 the B-NP
 biggest B-ADJP
@@ -25631,6 +26708,7 @@ heavy B-NP
 trading I-NP
 volume I-NP
 . O
+
 Forget None
 about B-PP
 Treasury I-NP
@@ -25640,6 +26718,7 @@ a B-LST
 money-market B-NP
 fund I-NP
 . O
+
 Although B-SBAR
 a B-LST
 GOP I-NP
@@ -25679,6 +26758,7 @@ the B-NP
 local B-ADJP
 benefits I-NP
 . O
+
 He B-NP
 hurt I-VP
 himself B-NP
@@ -25718,6 +26798,7 @@ on B-PRT
 both B-NP
 sides I-NP
 . O
+
 This B-NP
 week I-NP
 , O
@@ -25751,6 +26832,7 @@ year I-NP
 including B-PP
 Christmas B-NP
 . O
+
 `` O
 There B-NP
 is I-INTJ
@@ -25796,6 +26878,7 @@ General B-NP
 Electric I-NP
 Co I-NP
 . O
+
 In B-PP
 July B-NP
 a B-LST
@@ -25832,6 +26915,7 @@ buy I-VP
 of I-PP
 MGM\/UA B-NP
 . O
+
 The B-NP
 $ B-NP
 125-billion-a-year None
@@ -25884,6 +26968,7 @@ in B-PP
 Palo B-NP
 Alto I-NP
 . O
+
 Confidence None
 in B-PP
 the B-NP
@@ -25921,6 +27006,7 @@ August B-NP
 near-record B-NP
 deficits I-NP
 . O
+
 In B-PP
 one B-NP
 ingenious B-ADJP
@@ -25982,6 +27068,7 @@ Angeles I-NP
 last I-ADVP
 month I-NP
 . O
+
 That B-NP
 could B-VP
 widen None
@@ -26005,6 +27092,7 @@ unload I-VP
 the B-NP
 latter I-NP
 . O
+
 But O
 Pemex B-NP
 managers I-NP
@@ -26017,6 +27105,7 @@ by B-PP
 the B-NP
 contract I-NP
 . O
+
 But O
 with B-PP
 industrial I-NP
@@ -26043,6 +27132,7 @@ into B-PP
 the B-NP
 economy I-NP
 . O
+
 Mr. B-NP
 Mason I-NP
 says B-VP
@@ -26070,6 +27160,7 @@ stacked None
 against B-PP
 them B-NP
 . O
+
 So B-ADVP
 far I-ADVP
 Galileo B-NP
@@ -26097,6 +27188,7 @@ of I-PP
 the B-NP
 weather B-VP
 . O
+
 The B-NP
 economy I-NP
 's B-NP
@@ -26122,6 +27214,7 @@ and I-UCP
 tame None
 inflation B-NP
 . O
+
 The B-NP
 GOP I-NP
 doubters None
