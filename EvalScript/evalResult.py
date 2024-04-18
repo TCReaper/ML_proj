@@ -18,7 +18,7 @@ def get_predicted(predicted, answers=defaultdict(lambda: defaultdict(defaultdict
 
     
     for line in predicted:
-        print(line)
+        # print(line)
         line = line.strip()
         if line.startswith("##"):
             continue
@@ -34,7 +34,7 @@ def get_predicted(predicted, answers=defaultdict(lambda: defaultdict(defaultdict
             continue
         else:
        
-            print(line)
+            # print(line)
             split_line = line.split(separator)
             value = split_line[outputColumnIndex]
             ne = value[0]
