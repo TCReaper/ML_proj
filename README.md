@@ -19,8 +19,9 @@ git clone https://github.com/TCReaper/ML_proj/
 
 
 ### 2. Code Files
-All of the code is executable from `main.ipynb`.  
-However, we have split the multiple questions into separate files for readability:
+All of the code is executable from `main.ipynb`, however you are encouraged to access individual files.  
+We have elaborated on sections/implementations of the code, and it is also much more readable  :)  
+Relevant files as follows:
 ```bash
 main.ipynb
 ML_Proj_Part_1.ipynb
